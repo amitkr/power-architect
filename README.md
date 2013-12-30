@@ -1,3 +1,5 @@
+## This is my copy of [SQLPOWER's](http://www.sqlpower.ca/page/architect) [power-architect](https://code.google.com/p/power-architect/)
+
 power-architect
 ===============
 
