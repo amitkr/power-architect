@@ -55,7 +55,9 @@ public class KettleUtils {
         
         String databaseName = target.getName();
         String username = target.getUser();
+        logger.info ("User: " + username);
         String password = target.getPass();
+        logger.info ("Password: " + password);
         JDBCDataSourceType targetType = target.getParentType();
         String connectionType = "";
         if (targetType.getKettleNames().size() > 0) {
@@ -68,6 +70,8 @@ public class KettleUtils {
         if (hostname == null) {
             hostname = target.get(KettleOptions.KETTLE_HOSTNAME_KEY);
         }
+        hostname = null;
+
         String port = map.get(KettleOptions.KETTLE_PORT);
         if (port == null) {
             port = target.get(KettleOptions.KETTLE_PORT_KEY);
@@ -83,10 +87,21 @@ public class KettleUtils {
                                               , hostname==null?"":hostname
                                               , database==null?"":database
                                               , port==null?"":port
-                                              , username
-                                              , password);
-        
+                                              , username==null||username==""?"":username
+                                              , password==null||password==""?"":password);
 
+        /*
+        databaseMeta = new DatabaseMeta(databaseName
+                                              , connectionType
+                                              , "Native"
+                                              , ""
+                                              , database==null?"":database
+                                              , port==null?"":port
+                                              , "amkumar"
+                                              , "");
+        */
+
+        logger.info(databaseMeta);
         return databaseMeta;
     }
 }
