@@ -922,11 +922,11 @@ log4j.logger.org.apache.commons.digester.Digester=debug
 
 log4j.appender.R=org.apache.log4j.RollingFileAppender
 log4j.appender.R.File=/tmp/architect.log
-log4j.appender.R.MaxFileSize=10000KB
+log4j.appender.R.MaxFileSize=100MB
 log4j.appender.R.MaxBackupIndex=1
 log4j.appender.R.layout=org.apache.log4j.PatternLayout
-log4j.appender.R.layout.ConversionPattern=%-4r [%t] %-5p %c %x - %m%n
+log4j.appender.R.layout.ConversionPattern=%d{dd-MMM-yyyy-HH:mm:ss,SSS} - %-4r [%t] %-5p %c %x - %m%n
 
 log4j.appender.C=org.apache.log4j.ConsoleAppender
 log4j.appender.C.layout=org.apache.log4j.PatternLayout
-log4j.appender.C.layout.ConversionPattern=%-4r [%t] %-5p %c %x - %m%n
+log4j.appender.C.layout.ConversionPattern=%d{dd-MMM-yyyy-HH:mm:ss,SSS} - %-4r [%t] %-5p %c %x - %m%n
