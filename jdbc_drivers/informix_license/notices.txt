@@ -1,0 +1,807 @@
+NOTICES AND INFORMATION
+
+IBM Informix Client SDK V4.10
+
+The IBM license agreement and any applicable information on the web
+download page for IBM products refers Licensee to this file for details
+concerning notices applicable to code included in the products listed
+above ("the Program").
+
+Notwithstanding the terms and conditions of any other agreement Licensee
+may have with IBM or any of its related or affiliated entities
+(collectively "IBM"), the third party code identified below is subject
+to the terms and conditions of the IBM license agreement for the Program
+and not the license terms that may be contained in the notices below.
+The notices are provided for informational purposes.
+
+Please note: This Notices file may identify information that is not used
+by, or that was not shipped with, the Program as Licensee installed it.
+
+IMPORTANT: IBM does not represent or warrant that the information in this
+NOTICES file is accurate. Third party websites are independent of IBM and
+IBM does not represent or warrant that the information on any third party
+website referenced in this NOTICES file is accurate. IBM disclaims any
+and all liability for errors and omissions or for any damages accruing
+from the use of this NOTICES file or its contents, including without
+limitation URLs or references to any third party websites.
+
+=========================================================
+IBM Global Security Toolkit v8
+
+NOTICES AND INFORMATION 
+
+The Program includes the following components:
+
+for IBM Global Security Toolkit v8
+
+* OpenSSL 0.98e
+* zlib 1.2.3
+* ICU4C 3.8.1
+
+See OpenSSL notice below
+See zlib notice below
+See ICU notice below
+--------------------------------------------------------------------------------
+END OF NOTICES FOR : IBM Global Security Toolkit v8
+=========================================================
+
+ License for Actipro Software LLC
+
+Actipro Software LLC
+SyntaxEditor Software Component Product
+Copyright (c) 2001-2004 Actipro Software LLC. All rights reserved. 
+Redistributable Files: ActiproSoftware.SyntaxEditor.dll, ActiproSoftware.WinUICore.dll, ActiproSoftware.Shared.dll 
+END-USER LICENSE AGREEMENT FOR ACTIPRO SOFTWARE LLC SOFTWARE
+SINGLE DEVELOPER LICENSE FOR SOFTWARE PRODUCT
+IMPORTANT - READ CAREFULLY: This Actipro Software LLC ("Actipro") End-User License Agreement ("EULA") is a legal agreement between you (an individual developer of software applications) and Actipro for the Actipro software product accompanying this EULA, which includes computer software and may include associated source code, media, printed materials, and "on-line" or electronic documentation ("SOFTWARE PRODUCT"). By installing, copying, or otherwise using the SOFTWARE PRODUCT, you agree to be bound by the terms of this EULA. If you do not agree to the terms of this EULA, do not install, use, distribute in any manner, or replicate in any manner, any part, file or portion of the SOFTWARE PRODUCT. 
+The SOFTWARE PRODUCT is protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties. The SOFTWARE PRODUCT is licensed, not sold. 
+1. RIGOROUS ENFORCEMENT OF INTELLECTUAL PROPERTY RIGHTS. If the licensed right of use for this SOFTWARE PRODUCT is purchased by you with any intent to reverse engineer, decompile, create derivative works, and the exploitation or unauthorized transfer of, any Actipro intellectual property and trade secrets, to include any exposed methods or source code where provided, no licensed right of use shall exist, and any products created as a result shall be judged illegal by definition of all applicable law. Any sale or resale of intellectual property or created derivatives so obtained will be prosecuted to the fullest extent of all local, federal and international law. 
+2. GRANT OF LICENSE. This EULA, if legally executed as defined herein, licenses and so grants you the following rights: 
+A. Evaluation License. You are granted a license to use the SOFTWARE PRODUCT for a period of only fifteen (15) days after installation of the evaluation version of the SOFTWARE PRODUCT ("Evaluation Period"). After the Evaluation Period, you must either: 
+i. Delete the SOFTWARE PRODUCT and all related files from ALL computers onto which it was installed or copied, or 
+ii. Contact Actipro or one of its authorized resellers to purchase the SOFTWARE PRODUCT. 
+You may use the evaluation version of the SOFTWARE PRODUCT for evaluation purposes only. You may not distribute ANY of the files, in any form or manner, provided with the evaluation version of the SOFTWARE PRODUCT to ANY PARTIES. 
+B. Single Developer License. You may install and use multiple copies of the SOFTWARE PRODUCT or any prior version legally licensed once a single developer license ("Single Developer License") has been obtained from Actipro or a reseller authorized by Actipro, generally via some form of registration. A Single Developer License for the SOFTWARE PRODUCT may not be shared or used concurrently by more than one individual developer. In a project that uses the SOFTWARE PRODUCT, each individual developer on the project requires a separate Single Developer License, regardless of whether they directly use the component or not. 
+C. Site License If you purchase a site license from Actipro or a reseller authorized by Actipro, each of the developers at your site is considered licensed according to the terms and conditions of the Single Developer License. 
+D. Source Code License If source code for the SOFTWARE PRODUCT ("Source Code") has been purchased from Actipro or a reseller authorized by Actipro, the sale is considered final and neither the SOFTWARE PRODUCT nor Source Code may be returned under any circumstances. 
+The following restrictions apply to Source Code: 
+i. Source Code shall be considered as part the SOFTWARE PRODUCT and all Single Developer License requirements stated above still apply, meaning that each developer requires a valid Single Developer License to be able to work on any project created that uses the Source Code. 
+ii. You may NOT distribute or sell the Source Code, repacked, recompiled, renamed or compiled except as expressly permitted in this EULA. 
+iii. The Source Code may be used in your projects as stated in this EULA. 
+iv. You agree that you will not compete against Actipro by repackaging, recompiling, compiling or renaming the SOFTWARE PRODUCT you purchased source code for. Any derivative works based on the Source Code are illegal to be sold if they compete in any way with the SOFTWARE PRODUCT or other Actipro products. 
+v. Any custom builds that you create by using the Source Code may NOT bear "ActiproSoftware" or the name of the SOFTWARE PRODUCT in the output assembly name. 
+E. Storage/Network Use. You may also store or install a copy of the SOFTWARE PRODUCT on a storage device, such as a network server, used only to install or run the SOFTWARE PRODUCT on the your other computers over an internal network; however, you must acquire and dedicate a Single Developer License for each separate individual developer who wishes to use the SOFTWARE PRODUCT. 
+3. DESCRIPTION OF OTHER RIGHTS AND LIMITATIONS. 
+A. Not for Resale Software. If the SOFTWARE PRODUCT is labeled and provided as "Not for Resale" or "NFR", then, notwithstanding other sections of this EULA, you may not resell, distribute, or otherwise transfer for value or benefit in any manner, the SOFTWARE PRODUCT or any derivative work using the SOFTWARE PRODUCT. You may not transfer, rent, lease, lend, copy, modify, translate, sublicense, time-share or electronically transmit the SOFTWARE PRODUCT, media or documentation. This also applies to any and all intermediate files, source code, and compiled executables. 
+B. Limitations on Reverse Engineering, Decompilation, and Disassembly. You may not reverse engineer, decompile, create derivative works, modify, translate, or disassemble the SOFTWARE PRODUCT, and only to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation. You agree to take all reasonable, legal and appropriate measures to prohibit the illegal dissemination of the SOFTWARE PRODUCT or any of its constituent parts and redistributables to the fullest extent of all applicable local, US Codes and International Laws and Treaties regarding anti-circumvention, including but not limited to, the Geneva and Berne World Intellectual Property Organization (WIPO) Diplomatic Conferences. 
+C. Rental. You may not rent, lease, or lend the SOFTWARE PRODUCT. 
+D. Separation of Components, Their Constituent Parts and Redistributables. The SOFTWARE PRODUCT is licensed as a single product. The SOFTWARE PRODUCT and its constituent parts and any provided redistributables may not be reverse engineered, decompiled, disassembled, nor placed for distribution, sale, or resale as individual creations by you or any individual not expressly given such permission by Actipro. The provision of Source Code, if included with the SOFTWARE PRODUCT, does not constitute transfer of any legal rights to such code, and resale or distribution of all or any portion of all source code and intellectual property will be prosecuted to the fullest extent of all applicable local, federal and international laws. All Actipro libraries, source code, redistributables and other files remain Actipro's exclusive property. You may not distribute any files, except those that Actipro has expressly designated as Redistributable. 
+The SOFTWARE PRODUCT may include certain files ("Redistributables") intended for distribution by you to the users of programs you create. Redistributables include, for example, those files identified in printed or on-line documentation as redistributable files, or those files preselected for deployment by an install utility provided with the SOFTWARE PRODUCT (if any). In any event, the Redistributables for the SOFTWARE PRODUCT are only those files specifically designated as such by Actipro. Subject to all of the terms and conditions in this EULA, you may reproduce and distribute exact copies of the Redistributables, provided that such copies are made from the original copy of the SOFTWARE PRODUCT or the copy transferred to a hard disk. Copies of Redistributables may only be distributed with and for the sole purpose of executing application programs permitted under this EULA that you have created using the SOFTWARE PRODUCT. Under no circumstances may any copies of Redistributables be distributed separately. Redistributables may be distributed WITHOUT any royalty fees owed to Actipro. 
+If you are using an evaluation version of the SOFTWARE PRODUCT, you are prohibited from redistributing any of the files contained in the SOFTWARE PRODUCT, including Redistributables. 
+E. Installation and Use. The license granted in this EULA for you to create your own compiled programs and distribute your programs and the Redistributables (if any), is subject to all of the following conditions: 
+i. All copies of the programs you create must bear a valid copyright notice, either your own or the Actipro copyright notice that appears on the SOFTWARE PRODUCT. 
+ii. You may not remove or alter any Actipro copyright, trademark or other proprietary rights notice contained in any portion of Actipro libraries, source code, Redistributables or other files that bear such a notice. 
+iii. Actipro provides no warranty at all to any person, and you will remain solely responsible to anyone receiving your programs for support, service, upgrades, or technical or other assistance, and such recipients will have no right to contact Actipro for such services or assistance. 
+iv. You will indemnify and hold Actipro, its related companies and its suppliers, harmless from and against any claims or liabilities arising out of the use, reproduction or distribution of your programs. 
+v. Your programs containing the SOFTWARE PRODUCT must be written using a licensed, registered copy of the SOFTWARE PRODUCT. 
+vi. Your programs must add primary and substantial functionality, and may not be merely a set or subset of any of the libraries, code, Redistributables or other files of the SOFTWARE PRODUCT. 
+vii. You may not use Actipro's or any of its suppliers' names, logos, or trademarks to market your programs. 
+F. Support Services. Actipro may provide you with support services related to the SOFTWARE PRODUCT ("Support Services"). Use of Support Services is governed by Actipro policies and programs described in the user manual, in on-line documentation and/or other Actipro provided materials. Any supplemental software code provided to you as part of the Support Services shall be considered part of the SOFTWARE PRODUCT and subject to the terms and conditions of this EULA. With respect to technical information you provide to Actipro as part of the Support Services, Actipro may use such information for its business purposes, including for product support and development. 
+G. Software Transfer. You may NOT permanently or temporarily transfer ANY of your rights under this EULA to any individual or entity. Regardless of any modifications which you make and regardless of how you might compile, link, and/or package your programs, under no circumstances may the libraries, redistributables, and/or other files of the SOFTWARE PRODUCT (including any portions thereof) be used for developing programs by anyone other than you. Only you as the licensed end user have the right to use the libraries, redistributables, or other files of the SOFTWARE PRODUCT (or any portions thereof) for developing programs created with the SOFTWARE PRODUCT. In particular, you may not share copies of the Redistributables with other co-developers. 
+H. Termination. Without prejudice to any other rights or remedies, Actipro will terminate this EULA upon your failure to comply with all the terms and conditions of this EULA. In such event, you must destroy all copies of the SOFTWARE PRODUCT and all of its component parts including any related documentation, and must remove ANY and ALL use of such technology immediately from any applications using technology contained in the SOFTWARE PRODUCT developed by you, whether in native, altered or compiled state. 
+4. UPGRADES. If the SOFTWARE PRODUCT is labeled as an upgrade, you must be properly licensed to use the SOFTWARE PRODUCT identified by Actipro as being eligible for the upgrade in order to use the SOFTWARE PRODUCT. A SOFTWARE PRODUCT labeled as an upgrade replaces and/or supplements the SOFTWARE PRODUCT that formed the basis for your eligibility for the upgrade, and together constitute a single SOFTWARE PRODUCT. You may use the resulting upgraded SOFTWARE PRODUCT only in accordance with all the terms of this EULA. 
+5. COPYRIGHT. All title and copyrights in and to the SOFTWARE PRODUCT (including but not limited to any images, demos, source code, intermediate files, packages, photographs, animations, video, audio, music, text, and "applets" incorporated into the SOFTWARE PRODUCT), the accompanying printed materials, and any copies of the SOFTWARE PRODUCT are owned by Actipro or its subsidiaries. The SOFTWARE PRODUCT is protected by copyright laws and international treaty provisions. Therefore, you must treat the SOFTWARE PRODUCT like any other copyrighted material except that you may install the SOFTWARE PRODUCT for use by you, a single developer. You may not copy any printed materials accompanying the SOFTWARE PRODUCT. 
+6. GENERAL PROVISIONS. This EULA may only be modified in writing signed by you and an authorized officer of Actipro. If any provision of this EULA is found void or unenforceable, the remainder will remain valid and enforceable according to its terms. 
+7. MISCELLANEOUS. If you acquired this product in the United States, this EULA is governed by the laws of the State of Ohio. 
+If this SOFTWARE PRODUCT was acquired outside the United States, then you, agree and ascend to the adherence to all applicable international treaties regarding copyright and intellectual property rights which shall also apply. In addition, you agree that any local law(s) to the benefit and protection of Actipro ownership of, and interest in, its intellectual property and right of recovery for damages thereto will also apply. 
+Should you have any questions concerning this EULA, or if you desire to contact Actipro for any reason, please contact us via our support web pages at http://www.actiprosoftware.com. 
+8. NO WARRANTIES. ACTIPRO EXPRESSLY DISCLAIMS ANY WARRANTY FOR THE SOFTWARE PRODUCT. THE PRODUCT AND ANY RELATED DOCUMENTATION IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NONINFRINGEMENT. THE ENTIRE RISK ARISING OUT OF USE OR PERFORMANCE OF THE PRODUCT REMAINS WITH YOU. 
+9. LIMITATION OF LIABILITY. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL ACTIPRO OR ITS SUPPLIERS BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, OR ANY OTHER PECUNIARY LOSS) ARISING OUT OF THE USE OF OR INABILITY TO USE THE SOFTWARE PRODUCT OR THE PROVISION OF OR FAILURE TO PROVIDE SUPPORT SERVICES, EVEN IF ACTIPRO HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. 
+
+_______________________________________________________________
+
+
+END-USER LICENSE AGREEMENT FOR COMPONENTONE SOFTWARE 
+IMPORTANT-READ CAREFULLY: This End User License Agreement (this "EULA") contains the terms and conditions that govern your use of the SOFTWARE (as defined below) and imposes material limitations to your rights. You should read this EULA carefully and treat it as valuable property.
+I. THIS EULA. 
+ 1. Software Covered by this EULA. This EULA governs your use of the ComponentOne, LLC ("C1") software product(s) enclosed or otherwise accompanied herewith (individually and collectively, the "SOFTWARE"). The term "SOFTWARE" includes, to the extent provided by C1: 1) any revisions, updates and/or upgrades thereto; 2) any data, image or executable files, databases, data engines, computer software, or similar items customarily used or distributed with computer software products; 3) anything in any form whatsoever intended to be used with or in conjunction with the SOFTWARE; and 4) any associated media, documentation (including physical, electronic and online) and printed materials (the "Documentation").
+When using ComponentOne Ribbon for .NET which is provided as part of the SOFTWARE, note that THIS LICENSE GRANTS YOU NO RIGHTS TO THE MICROSOFT OFFICE 2007 UI. TO OBTAIN A LICENSE TO USE THE MICROSOFT OFFICE 2007 UI, PLEASE VISIT http://msdn.microsoft.com/officeui.
+ 2. This EULA is a Legally Binding Agreement Between You and C1. If you are acting as an agent of a company or another legal person, such as an officer or other employee acting for your employer, then "you" and "your" mean your principal, the entity or other legal person for whom you are acting. However, importantly, even if you are acting as an agent for another, you may still be personally liable for violation of federal and State laws, such as copyright infringement. 
+ By signifying your acceptance of the terms of this EULA, you intend to be, and hereby are, legally bound to this EULA to the same extent as if C1 and you physically signed this EULA. By installing, copying, or otherwise using the SOFTWARE, you agree to be bound by all the terms and conditions of this EULA. If you do not agree to all of such terms and conditions, you may not install or use the SOFTWARE. If you do not agree with any of the terms herewith and, for whatever reason, installation has begun or has been completed, you should cancel installation or un-install the SOFTWARE, as the case may be. Furthermore, you should promptly return the SOFTWARE to the place of business from which you obtained it in accordance with any return policies of such place of business. Return policies may vary among resellers; therefore you must comply with the return policies of your supplier as you agreed at the point of purchase. If the place of business from which you purchased the SOFTWARE does not honor a full refund for a period of thirty (30) days from the date of purchase, you may then return the SOFTWARE directly to C1 for a refund provided that such returns is authorized within the same thirty (30) days time period. To return the product directly to C1, you must first obtain a Return Authorization Number by contacting C1, and you must forward to C1 all items purchased, including the proof of purchase. The return must be postage-prepaid, and post-marked within thirty (30) days from the proof of purchase, time being of the essence. The return option to C1 is only available to the original purchaser of an unopened factory packaged item.
+II. YOUR LICENSE TO DEVELOP AND TO DISTRIBUTE. 
+As provided in more detail below, this EULA grants you two licenses: 1) a license to use the SOFTWARE to develop other software products (the "Development License"); and 2) a license to use and/or distribute the Developed Software (the "Distribution License"). These licenses (individually and collectively, the "Licenses") are explained and defined in more detail below.
+ 1. Definitions. The following terms have the respective meanings as used in this EULA:
+ "Network Server" means a computer with one or more computer central processing units (CPU's) that operates for the purpose of serving other computers logically or physically connected to it, including, but not limited to, other computers connected to it on an internal network, intranet or the Internet. 
+ "Web Server" means a type of Network Server that serves other computers which, are specifically connected to it through either an intranet or the Internet. 
+ "Developed Software" means those computer software products that are developed by or through the use of the SOFTWARE. 
+ "Developed Web Server Software" means those Developed Software products that reside logically or physically on at least one Web Server and are operated (meaning the computer software instruction set is carried out) by the Web Server's central processing unit(s) (CPU). 
+ "Redistributable Files" means the SOFTWARE files or other portions of the SOFTWARE that are provided by C1 and are identified as such in the Documentation for distribution by you with the Developed Software. 
+ "Developer" means a human being or any other automated device using the SOFTWARE in accordance with the terms and conditions of this EULA.
+ "Developer Seat License" means that each Developer using or otherwise accessing the programmatic interface or the SOFTWARE must obtain the right to do so by purchasing a separate End User License. 
+ "Source Code" shall mean computer software code or programs in human readable format, such as a printed listing of such a program written in a high-level computer language. The term "Source Code" includes, but is not limited to, documents and materials in support of the development effort of the SOFTWARE, such as flow charts, pseudo code and program notes.
+ 2. Your Development License. You are hereby granted a limited, royalty-free, non-exclusive right to use the SOFTWARE to design, develop, and test Developed Software, on the express condition that, and only for so long as, you fully comply with all terms and conditions of this EULA. 
+
+The SOFTWARE is licensed to you on a Developer Seat License basis. 
+
+ Developer Seat License basis means that you may perform an installation of the SOFTWARE for use in designing, testing and creating Developed Software by a single Developer on one or more computers, each with a single set of input devices, so long as 1) such computer/computers is/are used only by one single Developer at any given time and not concurrently and, 2) the user is the primary User to whom the license has been granted. Conversely, you may not install or use the SOFTWARE on a computer that is a network server or a computer at which the SOFTWARE is used by more than one Developer. You may not network the SOFTWARE or any component part of it, where it is or may be used by more than one Developer unless you purchase an additional Development License for each Developer. You must purchase another separate license to the SOFTWARE in order to add additional developer seats, whether the additional developers are accessing the SOFTWARE in a stand-alone environment or on a computer network. 
+ The license rights granted under this Agreement may be limited to a specified number of days after you first install the SOFTWARE unless you supply information required to license or activate your licensed copy, as the case may be, within the time and the manner described during the SOFTWARE setup sequence and/or in the dialog boxes appearing during use of the SOFTWARE. You may need to activate the SOFTWARE through the use of the Internet, email or telephone; toll charges may apply. You may need to re-activate the SOFTWARE if you modify your computer hardware or if you have installed it on a different computer; in some cases the number of activations allowed may be limited and you will have to contact C1 for clearance. Product activation is based on the exchange of information between your computer and C1. None of this information contains personally identifiable information nor can they be used to identify any personal information about you or any information you store in your computer. YOU ACKNOWLEDGE AND UNDERSTAND THAT THERE ARE TECHNOLOGICAL MEASURES IN THE SOFTWARE THAT ARE DESIGNED TO PREVENT UNLICENSED OR ILLEGAL USE OF THE SOFTWARE. YOU AGREE THAT C1 MAY USE SUCH MEASURES AND YOU AGREE TO FOLLOW ANY REQUIREMENTS REGARDING SUCH TECHNOLOGICAL MEASURES. YOU ACKNOWLEDGE AND AGREE THAT THE SOFTWARE WILL CEASE TO FUNCTION UNLESS AND UNTIL YOU ACTIVATE THE APPLICABLE SOFTWARE SERIAL NUMBER.
+
+You agree that C1 may audit your use of the SOFTWARE for compliance with these terms at any time, upon reasonable notice. In the event that such audit reveals any use of the SOFTWARE other than in full compliance with the terms of this EULA, you shall reimburse C1 for all reasonable expenses related to such audit in addition to any other liabilities you may incur as a result of such non-compliance.
+
+In all cases, (a) you may not use C1's name, logo, or trademarks to market your Developed Software without the express written consent of C1; (b) you must include the following C1 copyright notice in your Developed Software documentation and/or in the "About Box" of your Developed Software, and wherever the copyright/rights notice is located in the Developed Software ("Portions Copyright (c) ComponentOne, LLC 1991-2006. All Rights Reserved."); (c) you agree to indemnify, hold harmless, and defend C1, its suppliers and resellers, from and against any claims or lawsuits, including attorney's fees that may arise from the use or distribution of your Developed Software; (d) you may use the SOFTWARE only to create Developed Software that is significantly different than the SOFTWARE.
+ 3. Your Distribution License. 
+ License to Distribute Developed Software. Subject to the terms and conditions in this EULA, you are granted the license to use and to distribute Developed Software on a royalty-free basis, provided that the Developed Software incorporates the SOFTWARE as an integral part of the Developed Software in machine-language compiled format (customarily an ".exe", or ".dll", etc.). You may not distribute, bundle, wrap or subclass the SOFTWARE as Developed Software which, when used in a "designtime" development environment, exposes the programmatic interface of the SOFTWARE. You may distribute, on a royalty-free basis, Redistributable Files with Developed Software only. You may not add or transfer the SOFTWARE serial number to the computer where the Developed Software is installed. Users of the Developed Software may not use the SOFTWARE or the Redistributable Files, directly or indirectly, for development purposes. In particular, if you create a control (or user control) using the SOFTWARE as a constituent control, you are not licensed to distribute the control you created with the SOFTWARE to users for development purposes.
+ 4. Specific Product Limitations. Notwithstanding anything in this EULA to the contrary, if the license you have purchased is for any of the following products, then the following additional limitations will apply: 
+ a. ComponentOne Reports for .NET Designer Edition. 
+ComponentOne Reports for .NET Designer Edition includes at least: 1) one dynamic link library file (c1.win.c1reportdesigner.dll) known as C1ReportDesigner Component, 2) one executable file (ReportDesigner.exe) known as C1ReportDesigner Application and, 3) the Source Code of the C1ReportDesigner Application. The C1ReportDesigner Component is subject to the general terms and restrictions set forth in this EULA. The C1ReportDesigner Application is an executable file used to design and prepare reports; the C1ReportDesigner Application may be distributed, free of royalties, only in conjunction with the Developed Software. 
+
+C1 hereby also grants you the right to use and to modify the C1ReportDesigner Application Source Code to create derivative works that are based on the licensed Source Code. You may distribute such derivative works, solely in object code format and exclusively in conjunction with and/or as a part of the Developed Software. You are expressly not granted the right to distribute, disclose or otherwise make available to any third party the licensed Source Code, any portion, modified version or derivative work thereof, in source code format. 
+
+C1 shall retain all right, title and interest in and to the licensed Source Code, and all C1 updates, modifications or enhancements thereof. Nothing herein shall be deemed to transfer any ownership or title rights in and to the licensed Source Code from C1 to you. 
+
+SOURCE CODE IS LICENSED TO YOU AS IS. C1 DOES NOT AND SHALL NOT PROVIDE YOU WITH ANY TECHNICAL SUPPORT FOR YOUR SOURCE CODE LICENSE. 
+ b. VSView Reporting Edition (ActiveX). VSView Reporting Edition includes at least one executable file listed as "VSRptX.exe" (where X indicates the version number i.e.7,8, etc.), known as "Designer." The file "VSRptX.exe", or any upgrade or future versions of the Designer, are subject to the restrictions set forth in this EULA and may not be distributed with your Developed Software or in any other way. 
+ c. Studio Products. You may not share the component parts of the Studio Products licensed to you with other Developers, nor may you allow the use and/or installation of such components by other Developers. 
+ 5. Updates/Upgrades; Studio Subscription. Subject to the terms and conditions of this EULA, the Licenses are perpetual. Updates and upgrades to the SOFTWARE may be provided by C1 from time-to-time, and, if so provided by C1, are provided upon the terms and conditions offered at that time by C1 in its sole discretion. C1 may provide updates and upgrades to the SOFTWARE for free or for any charge, at any time or never, and through its chosen manner of access and distribution, all in C1's sole discretion. 
+
+C1 licenses certain of its separately-licensed products bundled together in a product suite, called the C1 "Studio" product line (the "Studio Products"). The exact separately-licensed products that are bundled into the Studio Products may change from time-to-time in C1's sole discretion. If the SOFTWARE is identified as a C1 "Studio" product, then the SOFTWARE is one of the Studio Products. The SOFTWARE and the Studio Products are revised from time-to-time (meaning, for example, revised with updates, upgrades and, in the case of Studio products, some times changes to the mix of products included in the bundle). To receive any such revisions to the SOFTWARE or the Studio Products, as the case may be, you must have a valid SOFTWARE license or a valid Studio subscription. Together with the Licenses, the original purchaser is granted a one-year subscription from the date of purchase. Upon expiration, you must renew your license subscription to continue to be entitled to receive SOFTWARE and/or the Studio Products revisions as the case may be.
+ 6. Serial Number. With your license, you will be issued a unique serial number (the "Serial Number") used for the activation of the SOFTWARE. The Serial Number is subject to the restrictions set forth in this EULA and may not be disclosed or distributed either with your Developed Software or in any other way. The disclosure or distribution of the Serial Number constitutes a breach of this EULA, the effect of which shall be the immediate termination and revocation of all the rights granted herein.
+ 7. Evaluation Copy. If you are using an "evaluation copy", specifically designated as such by C1 on its website or elsewhere, then the Licenses are limited as follows: a) you are granted a license to use the SOFTWARE for a period of thirty (30) days counted from the day of installation (the "Evaluation Period"); b) upon completion of the Evaluation Period, you shall either i) delete the SOFTWARE from the computer containing the installation, or you may ii) obtain a paid license of the SOFTWARE from C1 or any of its resellers; and c) any Developed Software developed with the Evaluation Copy may not be distrib-uted or used for any commercial purpose.
+III. INTELLECTUAL PROPERTY. 
+ 1. Copyright. You agree that all right, title, and interest in and to the SOFTWARE (including, but not limited to, any images, photographs, animations, video, audio, music, text, and "applets" incorporated into the SOFTWARE), and any copies of the SOFTWARE, and any copyrights and other intellectual properties therein or related thereto are owned exclusively by C1, except to the limited extent that C1 may be the rightful license holder of certain third-party technologies incorporated into the SOFTWARE. The SOFTWARE is protected by copyright laws and international treaty provisions. The SOFTWARE is licensed to you, not sold to you. C1 reserves all rights not otherwise expressly and specifically granted to you in this EULA.
+ 2. Backups. You may make a copy of the SOFTWARE solely for backup or archival purposes. Notwithstanding the foregoing, you may not copy the printed Documentation. 
+ 3. General Limitations. You may not reverse engineer, decompile, or disassemble the SOFTWARE, except and only to the extent that applicable law expressly permits such activity notwithstanding this limitation. 
+ 4. Software Transfers. You may not rent or lease the SOFTWARE. You may permanently transfer all of your rights under the EULA, provided that you retain no copies, that you transfer all the SOFTWARE (including all component parts, the media and printed materials, any updates, upgrades, this EULA and, if applicable, the Certificate of Authenticity), and that the transferee agrees to be bound by the terms of this EULA. If the SOFTWARE is an update or upgrade, any transfer must include all prior versions of the SOFTWARE.
+ 5. Termination. Without prejudice to any other rights it may have, C1 may terminate this EULA and the Licenses if you fail to comply with the terms and conditions contained herein. In such an event, you must destroy all copies of the SOFTWARE and all of its component parts. 
+ 6. Export Restrictions. You acknowledge that the SOFTWARE is of U.S. origin. You acknowledge that the license and distribution of the SOFTWARE is subject to the export control laws and regulations of the United States of America, and any amendments thereof, which restrict exports and re-exports of software, technical data, and direct products of technical data, including services and Developed Software. You agree that you will not export or re-export the SOFTWARE or any Developed Software, or any information, documentation and/or printed materials related thereto, directly or indirectly, without first obtaining permission to do so as required from the United States of America Department of Commerce's Bureau of Industry and Security ("BIS"), or other appropriate governmental agencies, to any countries, end-users, or for any end-uses that are restricted by U.S. export laws and regulations, and any amendments thereof, which include, but are not limited to: Restricted Countries, Restricted End-Users, and Restricted End-Uses.
+
+These restrictions change from time to time. You represent and warrant that neither the BIS nor any other United States federal agency has suspended, revoked or denied your export privileges. C1 acknowledges that it shall use reasonable efforts to supply you with all reasonably necessary information regarding the SOFTWARE and its business to enable you to fully comply with the provisions of this Section. If you have any questions regarding your obligations under United States of America export regulations, you should contact the Bureau of Industry and Security, United States Department of Commerce, Exporter Counseling Division, Washington DC. U.S.A. (202) 482-4811, http://www.bis.doc.gov.
+ 7. U.S. Government Restricted Rights. The SOFTWARE and documentation are provided with RESTRICTED RIGHTS. You will comply with any requirements of the Government to obtain such RESTRICTED RIGHTS protection, including without limitation, the placement of any restrictive legends on the SOFTWARE, and any license agreement used in connection with the distribution of the SOFTWARE. Manufacturer is ComponentOne, LLC, 201 South Highland Avenue , 3rd Floor, Pittsburgh, Pennsylvania 15206 USA. For solicitations issued by the Government on or after December 1, 1995 and the Department of Defense on or after September 29, 1995, the only rights provided in the software and documentation provided herein shall be those contained in this EULA. Under no circumstances shall C1 be obligated to comply with any Governmental requirements regarding the submission of or the request for exemption from submission of cost or pricing data or cost accounting requirements. For any distribution of the SOFTWARE that would require compliance by C1 with the Government's requirements relating to cost or pricing data or cost accounting requirements, you must obtain an appropriate waiver or exemption from such requirements for the benefit of C1 from the appropriate Government authority before the distribution and/or license of the SOFTWARE to the Government.
+IV. WARRANTIES AND REMEDIES. 
+ 1. Limited Warranty. C1 warrants that the original media, if any, are free from defects for ninety (90) days from the date of delivery of the SOFTWARE. C1 also warrants that: (i) it has the full power to enter into this Agreement and grant the license rights set forth herein; (ii) it has not granted and will not grant any rights in the Software to any third party which grant is inconsistent with the rights granted to you in this Agreement; and (iii) the Software does not and will not infringe any trade secret, copyright, trademark or other proprietary right held by any third party and does not infringe any patent held by any third party. EXCEPT AS OTHERWISE PROVIDED IN THE PRECEDING SENTENCE, AND TO THE MAXIMUM EXTENT PERMIT-TED BY APPLICABLE LAW, C1 EXPRESSLY DISCLAIMS ANY WARRANTY FOR THE SOFTWARE, DOCUMENTATION AND ANYTHING ELSE PROVIDED BY C1 HEREBY AND C1 PROVIDES THE SAME IN "AS IS" CONDITION WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. THE ENTIRE RISK ARISING OUT OF USE OR PERFORMANCE OF THE SOFTWARE AND DOCUMENTATION REMAINS WITH YOU. THIS LIMITED WARRANTY GIVES YOU SPECIFIC LEGAL RIGHTS. YOU MAY HAVE OTHERS WHICH VARY FROM STATE TO STATE.
+ 2. Limited Remedy. C1 PROVIDES NO REMEDIES OR WARRANTIES, WHETHER EXPRESS OR IMPLIED, FOR ANY SAMPLE APPLICATION CODE, REDISTRIBUTABLE FILES, TRIAL VERSION AND THE NOT FOR RESALE VERSION OF THE SOFTWARE. ANY SAMPLE APPLICATION CODE, TRIAL VERSION AND THE NOT FOR RESALE VERSION OF THE SOFTWARE ARE PROVIDED "AS IS". 
+
+C1's entire liability and your exclusive remedy under this EULA shall be, at C1's sole option, either (a) return of the price paid for the SOFTWARE; (b) repair the SOFTWARE through updates distributed online or otherwise in C1's discretion; or (c) replace the SOFTWARE with SOFTWARE that substantially performs as described in the SOFTWARE documentation, provided that you return the SOFTWARE in the same manner as provided in Section I.2 for return of the SOFTWARE for non-acceptance of this EULA. Any media for any repaired or replacement SOFTWARE will be warranted for the remainder of the original warranty period or thirty (30) days, whichever is longer. THESE REMEDIES ARE NOT AVAILABLE OUTSIDE OF THE UNITED STATES OF AMERICA. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL C1 BE LIABLE FOR ANY DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFIT, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, OR ANY OTHER PECUNIARY LOSS) ARISING OUT OF THE USE OR INABILITY TO USE THE SOFTWARE, EVEN IF C1 HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. BECAUSE SOME STATES/JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES IN CERTAIN CASES, THE ABOVE LIMITATION MAY NOT APPLY TO YOU.
+V. MISCELLANEOUS. 
+ 1. This is the Entire Agreement. This is the Entire Agreement. This EULA (including any addendum to this EULA included with the SOFTWARE) is the final, complete and exclusive statement of the entire agreement between you and C1 relating to the SOFTWARE. This EULA supersedes any prior and contemporaneous proposals, purchase orders, advertisements, and all other communications in relation to the subject matter of this EULA, whether oral or written. No terms or conditions, other than those contained herein, and no other understanding or agreement which in any way modifies these terms and conditions, shall be binding upon the parties unless entered into in writing executed between the parties, or by other non-oral manner of agreement whereby the parties objectively and definitively act in a manner to be bound (such as by continuing with an installation of the SOFTWARE, etc.). Employees, agents and other representatives of C1 are not permitted to orally modify this EULA.
+ 2. You Indemnify C1. . You agree to indemnify, hold harmless, and defend C1 and its suppliers and resellers from and against any and all claims or lawsuits, including attorney's fees, which arise out of or result from your distribution of your Developed Software, your Developed Web Server Software or from your breach of any of the terms and conditions of this EULA. 
+ 3. Interpretation of this EULA. If for any reason a court of competent jurisdiction finds any provision of this EULA, or any portion thereof, to be unenforceable, that provision of this EULA will be enforced to the maximum extent permissible so as to effect the intent of the parties, and the remainder of this EULA will continue in full force and effect. Formatives of defined terms shall have the same meaning of the defined term. Failure by either party to enforce any provision of this EULA will not be deemed a waiver of future enforcement of that or any other provision. Except as otherwise required or superseded by law, this EULA is governed by the laws of the Commonwealth of Pennsylvania, without regard to its conflict of laws principles. The parties consent to the personal jurisdiction and venue of the Commonwealth of Pennsylvania, in the County of Allegheny, and agree that any legal proceedings arising out of this EULA shall be conducted solely in such Commonwealth. If the SOFTWARE was acquired outside the United States, then local law may apply.
+___________________________________________________________________________________________
+___________________________________________________________________________________________
+
+Open Source Package License for IBM Network Authentication Service 1.4
+
+Copyright (C) 1985-2004 by the Massachusetts Institute of Technology. 
+
+Export of software employing encryption from the United States of
+America may require a specific license from the United States
+Government. It is the responsibility of any person or organization
+contemplating export to obtain such a license before exporting. 
+
+WITHIN THAT CONSTRAINT, permission to use, copy, modify, and
+distribute this software and its documentation for any purpose and
+without fee is hereby granted, provided that the above copyright
+notice appear in all copies and that both that copyright notice and
+this permission notice appear in supporting documentation, and that
+the name of M.I.T. not be used in advertising or publicity pertaining
+to distribution of the software without specific, written prior
+permission. Furthermore if you modify this software you must label
+your software as modified software and not distribute it in such a
+fashion that it might be confused with the original MIT software.
+M.I.T. makes no representations about the suitability of this software
+for any purpose. It is provided 'as is' without express or implied
+warranty. 
+
+The following copyright and permission notice applies to the
+OpenVision Kerberos Administration system located in kadmin/create,
+kadmin/dbutil, kadmin/passwd, kadmin/server, lib/kadm5, and portions
+of lib/rpc: 
+
+Copyright, OpenVision Technologies, Inc., 1996, All Rights Reserved
+WARNING: Retrieving the OpenVision Kerberos Administration system
+source code, as described below, indicates your acceptance of the
+following terms. If you do not agree to the following terms, do not
+retrieve the OpenVision Kerberos administration system. You may freely
+use and distribute the Source Code and Object Code compiled from it,
+with or without modification, but this Source
+Code is provided to you 'AS IS' EXCLUSIVE OF ANY WARRANTY, INCLUDING,
+WITHOUT LIMITATION, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE, OR ANY OTHER WARRANTY, WHETHER EXPRESS OR IMPLIED.
+IN NO EVENT WILL OPENVISION HAVE ANY LIABILITY FOR ANY LOST PROFITS,
+LOSS OF DATA OR COSTS OF PROCUREMENT OF SUBSTITUTE
+GOODS OR SERVICES, OR FOR ANY SPECIAL, INDIRECT, OR CONSEQUENTIAL
+DAMAGES ARISING OUT OF THIS AGREEMENT, INCLUDING, WITHOUT LIMITATION,
+THOSE RESULTING FROM THE USE OF THE SOURCE CODE, OR THE FAILURE OF THE
+SOURCE CODE TO PERFORM, OR FOR ANY OTHER REASON. 
+
+OpenVision retains all copyrights in the donated Source Code.
+OpenVision also retains copyright to derivative works of the Source
+Code, whether created by OpenVision or by a third party. The
+OpenVision copyright notice must be preserved if derivative works are
+made based on the donated Source Code. OpenVision Technologies, Inc.
+has donated this Kerberos Administration system to MIT for inclusion 
+in the standard Kerberos 5 distribution.
+
+______________________________________________________
+END OF NOTICES SECTION for IBM NAS 1.4
+======================================================
+
+END-USER LICENSE AGREEMENT FOR MindFusion Ltd. SOFTWARE
+
+*** FlowChart.NET Component ***
+
+IMPORTANT - READ CAREFULLY: This FlowChart.NET License Agreement ("Agreement") is a legal agreement between you (either an individual developer or an organization known as "Customer") and MindFusion Ltd. for the MindFusion's software product identified above. By installing, copying, redistributing or otherwise using the Software or any Software Updates, Customer agrees to be bound by the terms of this Agreement. If Customer does not agree to the terms of this Agreement, please do not install, copy, redistribute or use the Software, including all Software Updates that Customer receives as part of the Software (each, an "Update"). By installing, copying, or otherwise using an Update, Customer agrees to be bound by the additional license terms that accompany such Update. If Customer does not agree to the terms of the additional license terms that accompany the Update, disregard the Update and the additional license terms that accompany the Update. In this event, Customer's rights to use the Software shall continue to be governed by the then-existing Agreement.
+
+1. Copyright
+
+All rights, title, interests in and to copyrights in the Software (including but not limited to any software components, product documentation and associated media, sample files, extension files, tools and utilities, miscellaneous technical information, and any copies of the Software, are owned exclusively (or licensed) by MindFusion. The Software is protected by international copyright laws and treaty provisions. Therefore, you must treat the Software like any other copyrighted material. The Software is licensed, not sold.
+
+2. Grant of License
+
+MindFusion Ltd. grants Customer the following rights:
+
+a. Customer is granted the non-transferable, non-exclusive, and perpetual right to integrate FlowChart.NET in their software products, to use these products in their own company and to distribute these products under their own trade name. The end users of the Customer products acquire no rights to FlowChart.NET, except to use its run-time components with these products. Except for the per-developer license fee, additional distribution runtime, royalty, or per-end-user license fees are NOT required.
+
+b. If source code-packed copy of the software is purchased, Customer may create and redistribute custom builds of the Component runtime executable file (FlowChart.net.dll) with their products. Without an explicit permission by MindFusion, Customer may not redistribute or resell versions of their custom FlowChart.NET build that can be used in software development processes by third parties.
+
+c. Customer may create as many backup copies of the Software package as needed, as long as copies are not redistributed to third parties without explicit permission by MindFusion Ltd.
+
+d. Solely with respect to electronic documents included with the Software, Customer may make an unlimited number of copies (either in hardcopy or electronic form), provided that such copies shall be used only for internal purposes and are not republished or distributed to any third party.
+
+e. License fee is based on the number of developers that will use the component. The total number of development workplaces is taken into account, while the number of computers is irrelevant. A single developer or a number of developers in an organization, in accordance with the purchased license, may use the Software in any software development process. Site license grants to Customer the right any developer at a single physical address of Customer organization to use FlowChart.NET in any software development process. Enterprise license grants to Customer the right any developer at all branches of the organization world-wide to use FlowChart.NET in any software development process.
+
+MindFusion reserves all rights not expressly granted to Customer.
+
+
+3. Upgrades
+
+With any Component license purchased, Customer is granted a six-month upgrade subscription. During the subscription period Customer receives in a timely manner any upgrades or patches of the Component released by MindFusion Ltd.
+Customer may use upgraded Software only in accordance with this Agreement.
+
+4. Other Restrictions
+
+a. The Software is the sole and exclusive property of MindFusion Ltd., including, but not limited to, all applicable rights to patents, copyrights, trademarks and trade secrets and is provided for Customer's exclusive use for the purposes of this Agreement and will be held in confidence.
+
+b. Customer will not alter, remove or obscure any designation name or mark from any supplied material that identifies such material as belonging to or developed by MindFusion Ltd. Customer agrees not to disassemble, decompile, reverse engineer or otherwise reduce the Software to perceptible form. Customer agrees not to alter or modify the Software.
+
+c. Customer may not transfer, rent, lease, or sublicense the Software.
+
+d. In case Customer has purchased source code-packed copy of the Component, Customer agrees not to create any software products based on the Component source code, that are generally competitive the MindFusion Ltd's software (e.g. diagramming software components)
+
+5. Termination
+
+a. All rights granted hereunder shall immediately terminate upon Customer's failure to comply with the terms and conditions of this Agreement. In either such event, Customer agrees to destroy all copies of the Software in any form and all of its component parts.
+
+6. Disclaimer of Warranty
+
+a. NO WARRANTIES. THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, MINDFUSION DISCLAIMS ALL WARRANTIES, EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE AND ANY WARRANTY AGAINST INFRINGEMENT, WITH REGARD TO THE SOFTWARE. THIS LIMITED WARRANTY GIVES YOU SPECIFIC LEGAL RIGHTS. YOU MAY HAVE OTHERS, WHICH VARY FROM STATE/JURISDICTION TO STATE/JURISDICTION.
+
+b. NO LIABILITY FOR DAMAGES. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL MINDFUSION BE LIABLE FOR ANY DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, OR ANY OTHER PECUNIARY LOSS) ARISING OUT OF THE USE OR INABILITY TO USE THE SOFTWARE, EVEN IF MINDFUSION HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. BECAUSE SOME STATES/JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, THE ABOVE LIMITATION MAY NOT APPLY TO YOU.
+
+7. Miscellaneous
+
+Should you have any questions concerning this Agreement, or if you desire to contact MindFusion Ltd. for any other reason, please write to ipanayotova@mindfusion.org or call the MindFusion Ltd. Team at (+359) 88 95 1737.
+
+CUSTOMER ACKNOWLEDGES THAT CUSTOMER HAS READ THIS AGREEMENT, UNDERSTAND IT AND AGREES TO BE BOUND BY ITS TERMS AND CONDITIONS. CUSTOMER FURTHER AGREES THAT IT IS THE COMPLETE AND EXCLUSIVE STATEMENT OF THE AGREEMENT BETWEEN CUSTOMER AND MINDFUSION LTD. WHICH SUPERSEDES ANY PROPOSAL OR PRIOR AGREEMENT, ORAL OR WRITTEN, AND ANY OTHER COMMUNICATIONS BETWEEN CUSTOMER AND MINDFUSION RELATING TO THE SOFTWARE. This Agreement may not be modified except by a writing signed by a duly authorized representative of MindFusion Ltd.
+
+=============================================================
+END OF NOTICES FOR MINDFUSION
+=============================================================
+
+License for Actipro Software LLC
+
+Actipro Software LLC
+SyntaxEditor Software Component Product
+Copyright (c) 2001-2004 Actipro Software LLC. All rights reserved. 
+Redistributable Files: ActiproSoftware.SyntaxEditor.dll, ActiproSoftware.WinUICore.dll, ActiproSoftware.Shared.dll 
+END-USER LICENSE AGREEMENT FOR ACTIPRO SOFTWARE LLC SOFTWARE
+SINGLE DEVELOPER LICENSE FOR SOFTWARE PRODUCT
+IMPORTANT - READ CAREFULLY: This Actipro Software LLC ("Actipro") End-User License Agreement ("EULA") is a legal agreement between you (an individual developer of software applications) and Actipro for the Actipro software product accompanying this EULA, which includes computer software and may include associated source code, media, printed materials, and "on-line" or electronic documentation ("SOFTWARE PRODUCT"). By installing, copying, or otherwise using the SOFTWARE PRODUCT, you agree to be bound by the terms of this EULA. If you do not agree to the terms of this EULA, do not install, use, distribute in any manner, or replicate in any manner, any part, file or portion of the SOFTWARE PRODUCT. 
+The SOFTWARE PRODUCT is protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties. The SOFTWARE PRODUCT is licensed, not sold. 
+1. RIGOROUS ENFORCEMENT OF INTELLECTUAL PROPERTY RIGHTS. If the licensed right of use for this SOFTWARE PRODUCT is purchased by you with any intent to reverse engineer, decompile, create derivative works, and the exploitation or unauthorized transfer of, any Actipro intellectual property and trade secrets, to include any exposed methods or source code where provided, no licensed right of use shall exist, and any products created as a result shall be judged illegal by definition of all applicable law. Any sale or resale of intellectual property or created derivatives so obtained will be prosecuted to the fullest extent of all local, federal and international law. 
+2. GRANT OF LICENSE. This EULA, if legally executed as defined herein, licenses and so grants you the following rights: 
+A. Evaluation License. You are granted a license to use the SOFTWARE PRODUCT for a period of only fifteen (15) days after installation of the evaluation version of the SOFTWARE PRODUCT ("Evaluation Period"). After the Evaluation Period, you must either: 
+i. Delete the SOFTWARE PRODUCT and all related files from ALL computers onto which it was installed or copied, or 
+ii. Contact Actipro or one of its authorized resellers to purchase the SOFTWARE PRODUCT. 
+You may use the evaluation version of the SOFTWARE PRODUCT for evaluation purposes only. You may not distribute ANY of the files, in any form or manner, provided with the evaluation version of the SOFTWARE PRODUCT to ANY PARTIES. 
+B. Single Developer License. You may install and use multiple copies of the SOFTWARE PRODUCT or any prior version legally licensed once a single developer license ("Single Developer License") has been obtained from Actipro or a reseller authorized by Actipro, generally via some form of registration. A Single Developer License for the SOFTWARE PRODUCT may not be shared or used concurrently by more than one individual developer. In a project that uses the SOFTWARE PRODUCT, each individual developer on the project requires a separate Single Developer License, regardless of whether they directly use the component or not. 
+C. Site License If you purchase a site license from Actipro or a reseller authorized by Actipro, each of the developers at your site is considered licensed according to the terms and conditions of the Single Developer License. 
+D. Source Code License If source code for the SOFTWARE PRODUCT ("Source Code") has been purchased from Actipro or a reseller authorized by Actipro, the sale is considered final and neither the SOFTWARE PRODUCT nor Source Code may be returned under any circumstances. 
+The following restrictions apply to Source Code: 
+i. Source Code shall be considered as part the SOFTWARE PRODUCT and all Single Developer License requirements stated above still apply, meaning that each developer requires a valid Single Developer License to be able to work on any project created that uses the Source Code. 
+ii. You may NOT distribute or sell the Source Code, repacked, recompiled, renamed or compiled except as expressly permitted in this EULA. 
+iii. The Source Code may be used in your projects as stated in this EULA. 
+iv. You agree that you will not compete against Actipro by repackaging, recompiling, compiling or renaming the SOFTWARE PRODUCT you purchased source code for. Any derivative works based on the Source Code are illegal to be sold if they compete in any way with the SOFTWARE PRODUCT or other Actipro products. 
+v. Any custom builds that you create by using the Source Code may NOT bear "ActiproSoftware" or the name of the SOFTWARE PRODUCT in the output assembly name. 
+E. Storage/Network Use. You may also store or install a copy of the SOFTWARE PRODUCT on a storage device, such as a network server, used only to install or run the SOFTWARE PRODUCT on the your other computers over an internal network; however, you must acquire and dedicate a Single Developer License for each separate individual developer who wishes to use the SOFTWARE PRODUCT. 
+3. DESCRIPTION OF OTHER RIGHTS AND LIMITATIONS. 
+A. Not for Resale Software. If the SOFTWARE PRODUCT is labeled and provided as "Not for Resale" or "NFR", then, notwithstanding other sections of this EULA, you may not resell, distribute, or otherwise transfer for value or benefit in any manner, the SOFTWARE PRODUCT or any derivative work using the SOFTWARE PRODUCT. You may not transfer, rent, lease, lend, copy, modify, translate, sublicense, time-share or electronically transmit the SOFTWARE PRODUCT, media or documentation. This also applies to any and all intermediate files, source code, and compiled executables. 
+B. Limitations on Reverse Engineering, Decompilation, and Disassembly. You may not reverse engineer, decompile, create derivative works, modify, translate, or disassemble the SOFTWARE PRODUCT, and only to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation. You agree to take all reasonable, legal and appropriate measures to prohibit the illegal dissemination of the SOFTWARE PRODUCT or any of its constituent parts and redistributables to the fullest extent of all applicable local, US Codes and International Laws and Treaties regarding anti-circumvention, including but not limited to, the Geneva and Berne World Intellectual Property Organization (WIPO) Diplomatic Conferences. 
+C. Rental. You may not rent, lease, or lend the SOFTWARE PRODUCT. 
+D. Separation of Components, Their Constituent Parts and Redistributables. The SOFTWARE PRODUCT is licensed as a single product. The SOFTWARE PRODUCT and its constituent parts and any provided redistributables may not be reverse engineered, decompiled, disassembled, nor placed for distribution, sale, or resale as individual creations by you or any individual not expressly given such permission by Actipro. The provision of Source Code, if included with the SOFTWARE PRODUCT, does not constitute transfer of any legal rights to such code, and resale or distribution of all or any portion of all source code and intellectual property will be prosecuted to the fullest extent of all applicable local, federal and international laws. All Actipro libraries, source code, redistributables and other files remain Actipro's exclusive property. You may not distribute any files, except those that Actipro has expressly designated as Redistributable. 
+The SOFTWARE PRODUCT may include certain files ("Redistributables") intended for distribution by you to the users of programs you create. Redistributables include, for example, those files identified in printed or on-line documentation as redistributable files, or those files preselected for deployment by an install utility provided with the SOFTWARE PRODUCT (if any). In any event, the Redistributables for the SOFTWARE PRODUCT are only those files specifically designated as such by Actipro. Subject to all of the terms and conditions in this EULA, you may reproduce and distribute exact copies of the Redistributables, provided that such copies are made from the original copy of the SOFTWARE PRODUCT or the copy transferred to a hard disk. Copies of Redistributables may only be distributed with and for the sole purpose of executing application programs permitted under this EULA that you have created using the SOFTWARE PRODUCT. Under no circumstances may any copies of Redistributables be distributed separately. Redistributables may be distributed WITHOUT any royalty fees owed to Actipro. 
+If you are using an evaluation version of the SOFTWARE PRODUCT, you are prohibited from redistributing any of the files contained in the SOFTWARE PRODUCT, including Redistributables. 
+E. Installation and Use. The license granted in this EULA for you to create your own compiled programs and distribute your programs and the Redistributables (if any), is subject to all of the following conditions: 
+i. All copies of the programs you create must bear a valid copyright notice, either your own or the Actipro copyright notice that appears on the SOFTWARE PRODUCT. 
+ii. You may not remove or alter any Actipro copyright, trademark or other proprietary rights notice contained in any portion of Actipro libraries, source code, Redistributables or other files that bear such a notice. 
+iii. Actipro provides no warranty at all to any person, and you will remain solely responsible to anyone receiving your programs for support, service, upgrades, or technical or other assistance, and such recipients will have no right to contact Actipro for such services or assistance. 
+iv. You will indemnify and hold Actipro, its related companies and its suppliers, harmless from and against any claims or liabilities arising out of the use, reproduction or distribution of your programs. 
+v. Your programs containing the SOFTWARE PRODUCT must be written using a licensed, registered copy of the SOFTWARE PRODUCT. 
+vi. Your programs must add primary and substantial functionality, and may not be merely a set or subset of any of the libraries, code, Redistributables or other files of the SOFTWARE PRODUCT. 
+vii. You may not use Actipro's or any of its suppliers' names, logos, or trademarks to market your programs. 
+F. Support Services. Actipro may provide you with support services related to the SOFTWARE PRODUCT ("Support Services"). Use of Support Services is governed by Actipro policies and programs described in the user manual, in on-line documentation and/or other Actipro provided materials. Any supplemental software code provided to you as part of the Support Services shall be considered part of the SOFTWARE PRODUCT and subject to the terms and conditions of this EULA. With respect to technical information you provide to Actipro as part of the Support Services, Actipro may use such information for its business purposes, including for product support and development. 
+G. Software Transfer. You may NOT permanently or temporarily transfer ANY of your rights under this EULA to any individual or entity. Regardless of any modifications which you make and regardless of how you might compile, link, and/or package your programs, under no circumstances may the libraries, redistributables, and/or other files of the SOFTWARE PRODUCT (including any portions thereof) be used for developing programs by anyone other than you. Only you as the licensed end user have the right to use the libraries, redistributables, or other files of the SOFTWARE PRODUCT (or any portions thereof) for developing programs created with the SOFTWARE PRODUCT. In particular, you may not share copies of the Redistributables with other co-developers. 
+H. Termination. Without prejudice to any other rights or remedies, Actipro will terminate this EULA upon your failure to comply with all the terms and conditions of this EULA. In such event, you must destroy all copies of the SOFTWARE PRODUCT and all of its component parts including any related documentation, and must remove ANY and ALL use of such technology immediately from any applications using technology contained in the SOFTWARE PRODUCT developed by you, whether in native, altered or compiled state. 
+4. UPGRADES. If the SOFTWARE PRODUCT is labeled as an upgrade, you must be properly licensed to use the SOFTWARE PRODUCT identified by Actipro as being eligible for the upgrade in order to use the SOFTWARE PRODUCT. A SOFTWARE PRODUCT labeled as an upgrade replaces and/or supplements the SOFTWARE PRODUCT that formed the basis for your eligibility for the upgrade, and together constitute a single SOFTWARE PRODUCT. You may use the resulting upgraded SOFTWARE PRODUCT only in accordance with all the terms of this EULA. 
+5. COPYRIGHT. All title and copyrights in and to the SOFTWARE PRODUCT (including but not limited to any images, demos, source code, intermediate files, packages, photographs, animations, video, audio, music, text, and "applets" incorporated into the SOFTWARE PRODUCT), the accompanying printed materials, and any copies of the SOFTWARE PRODUCT are owned by Actipro or its subsidiaries. The SOFTWARE PRODUCT is protected by copyright laws and international treaty provisions. Therefore, you must treat the SOFTWARE PRODUCT like any other copyrighted material except that you may install the SOFTWARE PRODUCT for use by you, a single developer. You may not copy any printed materials accompanying the SOFTWARE PRODUCT. 
+6. GENERAL PROVISIONS. This EULA may only be modified in writing signed by you and an authorized officer of Actipro. If any provision of this EULA is found void or unenforceable, the remainder will remain valid and enforceable according to its terms. 
+7. MISCELLANEOUS. If you acquired this product in the United States, this EULA is governed by the laws of the State of Ohio. 
+If this SOFTWARE PRODUCT was acquired outside the United States, then you, agree and ascend to the adherence to all applicable international treaties regarding copyright and intellectual property rights which shall also apply. In addition, you agree that any local law(s) to the benefit and protection of Actipro ownership of, and interest in, its intellectual property and right of recovery for damages thereto will also apply. 
+Should you have any questions concerning this EULA, or if you desire to contact Actipro for any reason, please contact us via our support web pages at http://www.actiprosoftware.com. 
+8. NO WARRANTIES. ACTIPRO EXPRESSLY DISCLAIMS ANY WARRANTY FOR THE SOFTWARE PRODUCT. THE PRODUCT AND ANY RELATED DOCUMENTATION IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NONINFRINGEMENT. THE ENTIRE RISK ARISING OUT OF USE OR PERFORMANCE OF THE PRODUCT REMAINS WITH YOU. 
+9. LIMITATION OF LIABILITY. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL ACTIPRO OR ITS SUPPLIERS BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, OR ANY OTHER PECUNIARY LOSS) ARISING OUT OF THE USE OF OR INABILITY TO USE THE SOFTWARE PRODUCT OR THE PROVISION OF OR FAILURE TO PROVIDE SUPPORT SERVICES, EVEN IF ACTIPRO HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. 
+=============================================================
+END OF NOTICES FOR ACTIPRO
+=============================================================
+END-USER LICENSE AGREEMENT FOR COMPONENTONE SOFTWARE 
+IMPORTANT-READ CAREFULLY: This End User License Agreement (this "EULA") contains the terms and conditions that govern your use of the SOFTWARE (as defined below) and imposes material limitations to your rights. You should read this EULA carefully and treat it as valuable property.
+I. THIS EULA. 
+ 1. Software Covered by this EULA. This EULA governs your use of the ComponentOne, LLC ("C1") software product(s) enclosed or otherwise accompanied herewith (individually and collectively, the "SOFTWARE"). The term "SOFTWARE" includes, to the extent provided by C1: 1) any revisions, updates and/or upgrades thereto; 2) any data, image or executable files, databases, data engines, computer software, or similar items customarily used or distributed with computer software products; 3) anything in any form whatsoever intended to be used with or in conjunction with the SOFTWARE; and 4) any associated media, documentation (including physical, electronic and online) and printed materials (the "Documentation").
+When using ComponentOne Ribbon for .NET which is provided as part of the SOFTWARE, note that THIS LICENSE GRANTS YOU NO RIGHTS TO THE MICROSOFT OFFICE 2007 UI. TO OBTAIN A LICENSE TO USE THE MICROSOFT OFFICE 2007 UI, PLEASE VISIT http://msdn.microsoft.com/officeui.
+ 2. This EULA is a Legally Binding Agreement Between You and C1. If you are acting as an agent of a company or another legal person, such as an officer or other employee acting for your employer, then "you" and "your" mean your principal, the entity or other legal person for whom you are acting. However, importantly, even if you are acting as an agent for another, you may still be personally liable for violation of federal and State laws, such as copyright infringement. 
+ By signifying your acceptance of the terms of this EULA, you intend to be, and hereby are, legally bound to this EULA to the same extent as if C1 and you physically signed this EULA. By installing, copying, or otherwise using the SOFTWARE, you agree to be bound by all the terms and conditions of this EULA. If you do not agree to all of such terms and conditions, you may not install or use the SOFTWARE. If you do not agree with any of the terms herewith and, for whatever reason, installation has begun or has been completed, you should cancel installation or un-install the SOFTWARE, as the case may be. Furthermore, you should promptly return the SOFTWARE to the place of business from which you obtained it in accordance with any return policies of such place of business. Return policies may vary among resellers; therefore you must comply with the return policies of your supplier as you agreed at the point of purchase. If the place of business from which you purchased the SOFTWARE does not honor a full refund for a period of thirty (30) days from the date of purchase, you may then return the SOFTWARE directly to C1 for a refund provided that such returns is authorized within the same thirty (30) days time period. To return the product directly to C1, you must first obtain a Return Authorization Number by contacting C1, and you must forward to C1 all items purchased, including the proof of purchase. The return must be postage-prepaid, and post-marked within thirty (30) days from the proof of purchase, time being of the essence. The return option to C1 is only available to the original purchaser of an unopened factory packaged item.
+II. YOUR LICENSE TO DEVELOP AND TO DISTRIBUTE. 
+As provided in more detail below, this EULA grants you two licenses: 1) a license to use the SOFTWARE to develop other software products (the "Development License"); and 2) a license to use and/or distribute the Developed Software (the "Distribution License"). These licenses (individually and collectively, the "Licenses") are explained and defined in more detail below.
+ 1. Definitions. The following terms have the respective meanings as used in this EULA:
+ "Network Server" means a computer with one or more computer central processing units (CPU's) that operates for the purpose of serving other computers logically or physically connected to it, including, but not limited to, other computers connected to it on an internal network, intranet or the Internet. 
+ "Web Server" means a type of Network Server that serves other computers which, are specifically connected to it through either an intranet or the Internet. 
+ "Developed Software" means those computer software products that are developed by or through the use of the SOFTWARE. 
+ "Developed Web Server Software" means those Developed Software products that reside logically or physically on at least one Web Server and are operated (meaning the computer software instruction set is carried out) by the Web Server's central processing unit(s) (CPU). 
+ "Redistributable Files" means the SOFTWARE files or other portions of the SOFTWARE that are provided by C1 and are identified as such in the Documentation for distribution by you with the Developed Software. 
+ "Developer" means a human being or any other automated device using the SOFTWARE in accordance with the terms and conditions of this EULA.
+ "Developer Seat License" means that each Developer using or otherwise accessing the programmatic interface or the SOFTWARE must obtain the right to do so by purchasing a separate End User License. 
+ "Source Code" shall mean computer software code or programs in human readable format, such as a printed listing of such a program written in a high-level computer language. The term "Source Code" includes, but is not limited to, documents and materials in support of the development effort of the SOFTWARE, such as flow charts, pseudo code and program notes.
+ 2. Your Development License. You are hereby granted a limited, royalty-free, non-exclusive right to use the SOFTWARE to design, develop, and test Developed Software, on the express condition that, and only for so long as, you fully comply with all terms and conditions of this EULA. 
+
+The SOFTWARE is licensed to you on a Developer Seat License basis. 
+
+ Developer Seat License basis means that you may perform an installation of the SOFTWARE for use in designing, testing and creating Developed Software by a single Developer on one or more computers, each with a single set of input devices, so long as 1) such computer/computers is/are used only by one single Developer at any given time and not concurrently and, 2) the user is the primary User to whom the license has been granted. Conversely, you may not install or use the SOFTWARE on a computer that is a network server or a computer at which the SOFTWARE is used by more than one Developer. You may not network the SOFTWARE or any component part of it, where it is or may be used by more than one Developer unless you purchase an additional Development License for each Developer. You must purchase another separate license to the SOFTWARE in order to add additional developer seats, whether the additional developers are accessing the SOFTWARE in a stand-alone environment or on a computer network. 
+ The license rights granted under this Agreement may be limited to a specified number of days after you first install the SOFTWARE unless you supply information required to license or activate your licensed copy, as the case may be, within the time and the manner described during the SOFTWARE setup sequence and/or in the dialog boxes appearing during use of the SOFTWARE. You may need to activate the SOFTWARE through the use of the Internet, email or telephone; toll charges may apply. You may need to re-activate the SOFTWARE if you modify your computer hardware or if you have installed it on a different computer; in some cases the number of activations allowed may be limited and you will have to contact C1 for clearance. Product activation is based on the exchange of information between your computer and C1. None of this information contains personally identifiable information nor can they be used to identify any personal information about you or any information you store in your computer. YOU ACKNOWLEDGE AND UNDERSTAND THAT THERE ARE TECHNOLOGICAL MEASURES IN THE SOFTWARE THAT ARE DESIGNED TO PREVENT UNLICENSED OR ILLEGAL USE OF THE SOFTWARE. YOU AGREE THAT C1 MAY USE SUCH MEASURES AND YOU AGREE TO FOLLOW ANY REQUIREMENTS REGARDING SUCH TECHNOLOGICAL MEASURES. YOU ACKNOWLEDGE AND AGREE THAT THE SOFTWARE WILL CEASE TO FUNCTION UNLESS AND UNTIL YOU ACTIVATE THE APPLICABLE SOFTWARE SERIAL NUMBER.
+
+You agree that C1 may audit your use of the SOFTWARE for compliance with these terms at any time, upon reasonable notice. In the event that such audit reveals any use of the SOFTWARE other than in full compliance with the terms of this EULA, you shall reimburse C1 for all reasonable expenses related to such audit in addition to any other liabilities you may incur as a result of such non-compliance.
+
+In all cases, (a) you may not use C1's name, logo, or trademarks to market your Developed Software without the express written consent of C1; (b) you must include the following C1 copyright notice in your Developed Software documentation and/or in the "About Box" of your Developed Software, and wherever the copyright/rights notice is located in the Developed Software ("Portions Copyright (c) ComponentOne, LLC 1991-2006. All Rights Reserved."); (c) you agree to indemnify, hold harmless, and defend C1, its suppliers and resellers, from and against any claims or lawsuits, including attorney's fees that may arise from the use or distribution of your Developed Software; (d) you may use the SOFTWARE only to create Developed Software that is significantly different than the SOFTWARE.
+ 3. Your Distribution License. 
+ License to Distribute Developed Software. Subject to the terms and conditions in this EULA, you are granted the license to use and to distribute Developed Software on a royalty-free basis, provided that the Developed Software incorporates the SOFTWARE as an integral part of the Developed Software in machine-language compiled format (customarily an ".exe", or ".dll", etc.). You may not distribute, bundle, wrap or subclass the SOFTWARE as Developed Software which, when used in a "designtime" development environment, exposes the programmatic interface of the SOFTWARE. You may distribute, on a royalty-free basis, Redistributable Files with Developed Software only. You may not add or transfer the SOFTWARE serial number to the computer where the Developed Software is installed. Users of the Developed Software may not use the SOFTWARE or the Redistributable Files, directly or indirectly, for development purposes. In particular, if you create a control (or user control) using the SOFTWARE as a constituent control, you are not licensed to distribute the control you created with the SOFTWARE to users for development purposes.
+ 4. Specific Product Limitations. Notwithstanding anything in this EULA to the contrary, if the license you have purchased is for any of the following products, then the following additional limitations will apply: 
+ a. ComponentOne Reports for .NET Designer Edition. 
+ComponentOne Reports for .NET Designer Edition includes at least: 1) one dynamic link library file (c1.win.c1reportdesigner.dll) known as C1ReportDesigner Component, 2) one executable file (ReportDesigner.exe) known as C1ReportDesigner Application and, 3) the Source Code of the C1ReportDesigner Application. The C1ReportDesigner Component is subject to the general terms and restrictions set forth in this EULA. The C1ReportDesigner Application is an executable file used to design and prepare reports; the C1ReportDesigner Application may be distributed, free of royalties, only in conjunction with the Developed Software. 
+
+C1 hereby also grants you the right to use and to modify the C1ReportDesigner Application Source Code to create derivative works that are based on the licensed Source Code. You may distribute such derivative works, solely in object code format and exclusively in conjunction with and/or as a part of the Developed Software. You are expressly not granted the right to distribute, disclose or otherwise make available to any third party the licensed Source Code, any portion, modified version or derivative work thereof, in source code format. 
+
+C1 shall retain all right, title and interest in and to the licensed Source Code, and all C1 updates, modifications or enhancements thereof. Nothing herein shall be deemed to transfer any ownership or title rights in and to the licensed Source Code from C1 to you. 
+
+SOURCE CODE IS LICENSED TO YOU AS IS. C1 DOES NOT AND SHALL NOT PROVIDE YOU WITH ANY TECHNICAL SUPPORT FOR YOUR SOURCE CODE LICENSE. 
+ b. VSView Reporting Edition (ActiveX). VSView Reporting Edition includes at least one executable file listed as "VSRptX.exe" (where X indicates the version number i.e.7,8, etc.), known as "Designer." The file "VSRptX.exe", or any upgrade or future versions of the Designer, are subject to the restrictions set forth in this EULA and may not be distributed with your Developed Software or in any other way. 
+ c. Studio Products. You may not share the component parts of the Studio Products licensed to you with other Developers, nor may you allow the use and/or installation of such components by other Developers. 
+ 5. Updates/Upgrades; Studio Subscription. Subject to the terms and conditions of this EULA, the Licenses are perpetual. Updates and upgrades to the SOFTWARE may be provided by C1 from time-to-time, and, if so provided by C1, are provided upon the terms and conditions offered at that time by C1 in its sole discretion. C1 may provide updates and upgrades to the SOFTWARE for free or for any charge, at any time or never, and through its chosen manner of access and distribution, all in C1's sole discretion. 
+
+C1 licenses certain of its separately-licensed products bundled together in a product suite, called the C1 "Studio" product line (the "Studio Products"). The exact separately-licensed products that are bundled into the Studio Products may change from time-to-time in C1's sole discretion. If the SOFTWARE is identified as a C1 "Studio" product, then the SOFTWARE is one of the Studio Products. The SOFTWARE and the Studio Products are revised from time-to-time (meaning, for example, revised with updates, upgrades and, in the case of Studio products, some times changes to the mix of products included in the bundle). To receive any such revisions to the SOFTWARE or the Studio Products, as the case may be, you must have a valid SOFTWARE license or a valid Studio subscription. Together with the Licenses, the original purchaser is granted a one-year subscription from the date of purchase. Upon expiration, you must renew your license subscription to continue to be entitled to receive SOFTWARE and/or the Studio Products revisions as the case may be.
+ 6. Serial Number. With your license, you will be issued a unique serial number (the "Serial Number") used for the activation of the SOFTWARE. The Serial Number is subject to the restrictions set forth in this EULA and may not be disclosed or distributed either with your Developed Software or in any other way. The disclosure or distribution of the Serial Number constitutes a breach of this EULA, the effect of which shall be the immediate termination and revocation of all the rights granted herein.
+ 7. Evaluation Copy. If you are using an "evaluation copy", specifically designated as such by C1 on its website or elsewhere, then the Licenses are limited as follows: a) you are granted a license to use the SOFTWARE for a period of thirty (30) days counted from the day of installation (the "Evaluation Period"); b) upon completion of the Evaluation Period, you shall either i) delete the SOFTWARE from the computer containing the installation, or you may ii) obtain a paid license of the SOFTWARE from C1 or any of its resellers; and c) any Developed Software developed with the Evaluation Copy may not be distrib-uted or used for any commercial purpose.
+III. INTELLECTUAL PROPERTY. 
+ 1. Copyright. You agree that all right, title, and interest in and to the SOFTWARE (including, but not limited to, any images, photographs, animations, video, audio, music, text, and "applets" incorporated into the SOFTWARE), and any copies of the SOFTWARE, and any copyrights and other intellectual properties therein or related thereto are owned exclusively by C1, except to the limited extent that C1 may be the rightful license holder of certain third-party technologies incorporated into the SOFTWARE. The SOFTWARE is protected by copyright laws and international treaty provisions. The SOFTWARE is licensed to you, not sold to you. C1 reserves all rights not otherwise expressly and specifically granted to you in this EULA.
+ 2. Backups. You may make a copy of the SOFTWARE solely for backup or archival purposes. Notwithstanding the foregoing, you may not copy the printed Documentation. 
+ 3. General Limitations. You may not reverse engineer, decompile, or disassemble the SOFTWARE, except and only to the extent that applicable law expressly permits such activity notwithstanding this limitation. 
+ 4. Software Transfers. You may not rent or lease the SOFTWARE. You may permanently transfer all of your rights under the EULA, provided that you retain no copies, that you transfer all the SOFTWARE (including all component parts, the media and printed materials, any updates, upgrades, this EULA and, if applicable, the Certificate of Authenticity), and that the transferee agrees to be bound by the terms of this EULA. If the SOFTWARE is an update or upgrade, any transfer must include all prior versions of the SOFTWARE.
+ 5. Termination. Without prejudice to any other rights it may have, C1 may terminate this EULA and the Licenses if you fail to comply with the terms and conditions contained herein. In such an event, you must destroy all copies of the SOFTWARE and all of its component parts. 
+ 6. Export Restrictions. You acknowledge that the SOFTWARE is of U.S. origin. You acknowledge that the license and distribution of the SOFTWARE is subject to the export control laws and regulations of the United States of America, and any amendments thereof, which restrict exports and re-exports of software, technical data, and direct products of technical data, including services and Developed Software. You agree that you will not export or re-export the SOFTWARE or any Developed Software, or any information, documentation and/or printed materials related thereto, directly or indirectly, without first obtaining permission to do so as required from the United States of America Department of Commerce's Bureau of Industry and Security ("BIS"), or other appropriate governmental agencies, to any countries, end-users, or for any end-uses that are restricted by U.S. export laws and regulations, and any amendments thereof, which include, but are not limited to: Restricted Countries, Restricted End-Users, and Restricted End-Uses.
+
+These restrictions change from time to time. You represent and warrant that neither the BIS nor any other United States federal agency has suspended, revoked or denied your export privileges. C1 acknowledges that it shall use reasonable efforts to supply you with all reasonably necessary information regarding the SOFTWARE and its business to enable you to fully comply with the provisions of this Section. If you have any questions regarding your obligations under United States of America export regulations, you should contact the Bureau of Industry and Security, United States Department of Commerce, Exporter Counseling Division, Washington DC. U.S.A. (202) 482-4811, http://www.bis.doc.gov.
+ 7. U.S. Government Restricted Rights. The SOFTWARE and documentation are provided with RESTRICTED RIGHTS. You will comply with any requirements of the Government to obtain such RESTRICTED RIGHTS protection, including without limitation, the placement of any restrictive legends on the SOFTWARE, and any license agreement used in connection with the distribution of the SOFTWARE. Manufacturer is ComponentOne, LLC, 201 South Highland Avenue , 3rd Floor, Pittsburgh, Pennsylvania 15206 USA. For solicitations issued by the Government on or after December 1, 1995 and the Department of Defense on or after September 29, 1995, the only rights provided in the software and documentation provided herein shall be those contained in this EULA. Under no circumstances shall C1 be obligated to comply with any Governmental requirements regarding the submission of or the request for exemption from submission of cost or pricing data or cost accounting requirements. For any distribution of the SOFTWARE that would require compliance by C1 with the Government's requirements relating to cost or pricing data or cost accounting requirements, you must obtain an appropriate waiver or exemption from such requirements for the benefit of C1 from the appropriate Government authority before the distribution and/or license of the SOFTWARE to the Government.
+IV. WARRANTIES AND REMEDIES. 
+ 1. Limited Warranty. C1 warrants that the original media, if any, are free from defects for ninety (90) days from the date of delivery of the SOFTWARE. C1 also warrants that: (i) it has the full power to enter into this Agreement and grant the license rights set forth herein; (ii) it has not granted and will not grant any rights in the Software to any third party which grant is inconsistent with the rights granted to you in this Agreement; and (iii) the Software does not and will not infringe any trade secret, copyright, trademark or other proprietary right held by any third party and does not infringe any patent held by any third party. EXCEPT AS OTHERWISE PROVIDED IN THE PRECEDING SENTENCE, AND TO THE MAXIMUM EXTENT PERMIT-TED BY APPLICABLE LAW, C1 EXPRESSLY DISCLAIMS ANY WARRANTY FOR THE SOFTWARE, DOCUMENTATION AND ANYTHING ELSE PROVIDED BY C1 HEREBY AND C1 PROVIDES THE SAME IN "AS IS" CONDITION WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. THE ENTIRE RISK ARISING OUT OF USE OR PERFORMANCE OF THE SOFTWARE AND DOCUMENTATION REMAINS WITH YOU. THIS LIMITED WARRANTY GIVES YOU SPECIFIC LEGAL RIGHTS. YOU MAY HAVE OTHERS WHICH VARY FROM STATE TO STATE.
+ 2. Limited Remedy. C1 PROVIDES NO REMEDIES OR WARRANTIES, WHETHER EXPRESS OR IMPLIED, FOR ANY SAMPLE APPLICATION CODE, REDISTRIBUTABLE FILES, TRIAL VERSION AND THE NOT FOR RESALE VERSION OF THE SOFTWARE. ANY SAMPLE APPLICATION CODE, TRIAL VERSION AND THE NOT FOR RESALE VERSION OF THE SOFTWARE ARE PROVIDED "AS IS". 
+
+C1's entire liability and your exclusive remedy under this EULA shall be, at C1's sole option, either (a) return of the price paid for the SOFTWARE; (b) repair the SOFTWARE through updates distributed online or otherwise in C1's discretion; or (c) replace the SOFTWARE with SOFTWARE that substantially performs as described in the SOFTWARE documentation, provided that you return the SOFTWARE in the same manner as provided in Section I.2 for return of the SOFTWARE for non-acceptance of this EULA. Any media for any repaired or replacement SOFTWARE will be warranted for the remainder of the original warranty period or thirty (30) days, whichever is longer. THESE REMEDIES ARE NOT AVAILABLE OUTSIDE OF THE UNITED STATES OF AMERICA. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL C1 BE LIABLE FOR ANY DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFIT, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, OR ANY OTHER PECUNIARY LOSS) ARISING OUT OF THE USE OR INABILITY TO USE THE SOFTWARE, EVEN IF C1 HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. BECAUSE SOME STATES/JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES IN CERTAIN CASES, THE ABOVE LIMITATION MAY NOT APPLY TO YOU.
+V. MISCELLANEOUS. 
+ 1. This is the Entire Agreement. This is the Entire Agreement. This EULA (including any addendum to this EULA included with the SOFTWARE) is the final, complete and exclusive statement of the entire agreement between you and C1 relating to the SOFTWARE. This EULA supersedes any prior and contemporaneous proposals, purchase orders, advertisements, and all other communications in relation to the subject matter of this EULA, whether oral or written. No terms or conditions, other than those contained herein, and no other understanding or agreement which in any way modifies these terms and conditions, shall be binding upon the parties unless entered into in writing executed between the parties, or by other non-oral manner of agreement whereby the parties objectively and definitively act in a manner to be bound (such as by continuing with an installation of the SOFTWARE, etc.). Employees, agents and other representatives of C1 are not permitted to orally modify this EULA.
+ 2. You Indemnify C1. . You agree to indemnify, hold harmless, and defend C1 and its suppliers and resellers from and against any and all claims or lawsuits, including attorney's fees, which arise out of or result from your distribution of your Developed Software, your Developed Web Server Software or from your breach of any of the terms and conditions of this EULA. 
+ 3. Interpretation of this EULA. If for any reason a court of competent jurisdiction finds any provision of this EULA, or any portion thereof, to be unenforceable, that provision of this EULA will be enforced to the maximum extent permissible so as to effect the intent of the parties, and the remainder of this EULA will continue in full force and effect. Formatives of defined terms shall have the same meaning of the defined term. Failure by either party to enforce any provision of this EULA will not be deemed a waiver of future enforcement of that or any other provision. Except as otherwise required or superseded by law, this EULA is governed by the laws of the Commonwealth of Pennsylvania, without regard to its conflict of laws principles. The parties consent to the personal jurisdiction and venue of the Commonwealth of Pennsylvania, in the County of Allegheny, and agree that any legal proceedings arising out of this EULA shall be conducted solely in such Commonwealth. If the SOFTWARE was acquired outside the United States, then local law may apply.
+=============================================================
+END OF NOTICES FOR COMPONENT ONE
+=============================================================
+ICU License - ICU 1.8.1 and later
+COPYRIGHT AND PERMISSION NOTICE
+Copyright (c) 1995-2012 International Business Machines Corporation and others 
+All rights reserved. 
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, provided that the above copyright notice(s) and this permission notice appear in all copies of the Software and that both the above copyright notice(s) and this permission notice appear in supporting documentation. 
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF THIRD PARTY RIGHTS. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR HOLDERS INCLUDED IN THIS NOTICE BE LIABLE FOR ANY CLAIM, OR ANY SPECIAL INDIRECT OR CONSEQUENTIAL DAMAGES, OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE. 
+Except as contained in this notice, the name of a copyright holder shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Software without prior written authorization of the copyright holder. 
+
+All trademarks and registered trademarks mentioned herein are the property of their respective owners. 
+
+Third-Party Software Licenses
+This section contains third-party software notices and/or additional terms for licensed third-party software components included within ICU libraries. 
+1. Unicode Data Files and Software
+EXHIBIT 1
+UNICODE, INC. LICENSE AGREEMENT - DATA FILES AND SOFTWARE
+Unicode Data Files include all data files under the directories http://www.unicode.org/Public/, http://www.unicode.org/reports/, and http://www.unicode.org/cldr/data/. Unicode Data Files do not include PDF online code charts under the directory http://www.unicode.org/Public/. Software includes any source code published in the Unicode Standard or under the directories http://www.unicode.org/Public/, http://www.unicode.org/reports/, and http://www.unicode.org/cldr/data/.
+NOTICE TO USER: Carefully read the following legal agreement. BY DOWNLOADING, INSTALLING, COPYING OR OTHERWISE USING UNICODE INC.'S DATA FILES ("DATA FILES"), AND/OR SOFTWARE ("SOFTWARE"), YOU UNEQUIVOCALLY ACCEPT, AND AGREE TO BE BOUND BY, ALL OF THE TERMS AND CONDITIONS OF THIS AGREEMENT. IF YOU DO NOT AGREE, DO NOT DOWNLOAD, INSTALL, COPY, DISTRIBUTE OR USE THE DATA FILES OR SOFTWARE.
+COPYRIGHT AND PERMISSION NOTICE
+Copyright © 1991-2012 Unicode, Inc. All rights reserved. Distributed under the Terms of Use in http://www.unicode.org/copyright.html.
+Permission is hereby granted, free of charge, to any person obtaining a copy of the Unicode data files and any associated documentation (the "Data Files") or Unicode software and any associated documentation (the "Software") to deal in the Data Files or Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, and/or sell copies of the Data Files or Software, and to permit persons to whom the Data Files or Software are furnished to do so, provided that (a) the above copyright notice(s) and this permission notice appear with all copies of the Data Files or Software, (b) both the above copyright notice(s) and this permission notice appear in associated documentation, and (c) there is clear notice in each modified Data File or in the Software as well as in the documentation associated with the Data File(s) or Software that the data or software has been modified.
+THE DATA FILES AND SOFTWARE ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF THIRD PARTY RIGHTS. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR HOLDERS INCLUDED IN THIS NOTICE BE LIABLE FOR ANY CLAIM, OR ANY SPECIAL INDIRECT OR CONSEQUENTIAL DAMAGES, OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THE DATA FILES OR SOFTWARE.
+Except as contained in this notice, the name of a copyright holder shall not be used in advertising or otherwise to promote the sale, use or other dealings in these Data Files or Software without prior written authorization of the copyright holder.
+
+Unicode and the Unicode logo are trademarks of Unicode, Inc. in the United States and other countries. All third party trademarks referenced herein are the property of their respective owners.
+2. Chinese/Japanese Word Break Dictionary Data (cjdict.txt)
+ #    The Google Chrome software developed by Google is licensed under the BSD license. Other software included in this distribution is provided under other licenses, as set forth below.
+ #		 
+ #		 The BSD License
+ #		 http://opensource.org/licenses/bsd-license.php 
+ #		 Copyright (C) 2006-2008, Google Inc.
+ #		 
+ #		 All rights reserved.
+ #		 
+ #		 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+ #		 
+ #		 Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+ #		 Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+ #		 Neither the name of  Google Inc. nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+ #		  
+ #		 
+ #		 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+ #		 
+ #		                                              
+ #		 The word list in cjdict.txt are generated by combining three word lists listed
+ #		 below with further processing for compound word breaking. The frequency is generated
+ #		 with an iterative training against Google web corpora. 
+ #		 
+ #		 * Libtabe (Chinese)
+ #		   - https://sourceforge.net/project/?group_id=1519
+ #		   - Its license terms and conditions are shown below.
+ #		 
+ #		 * IPADIC (Japanese)
+ #		   - http://chasen.aist-nara.ac.jp/chasen/distribution.html
+ #		   - Its license terms and conditions are shown below.
+ #		 
+ #		 ---------COPYING.libtabe ---- BEGIN--------------------
+ #		 
+ #		 /*
+ #		  * Copyrighy (c) 1999 TaBE Project.
+ #		  * Copyright (c) 1999 Pai-Hsiang Hsiao.
+ #		  * All rights reserved.
+ #		  *
+ #		  * Redistribution and use in source and binary forms, with or without
+ #		  * modification, are permitted provided that the following conditions
+ #		  * are met:
+ #		  *
+ #		  * . Redistributions of source code must retain the above copyright
+ #		  *   notice, this list of conditions and the following disclaimer.
+ #		  * . Redistributions in binary form must reproduce the above copyright
+ #		  *   notice, this list of conditions and the following disclaimer in
+ #		  *   the documentation and/or other materials provided with the
+ #		  *   distribution.
+ #		  * . Neither the name of the TaBE Project nor the names of its
+ #		  *   contributors may be used to endorse or promote products derived
+ #		  *   from this software without specific prior written permission.
+ #		  *
+ #		  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+ #		  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+ #		  * LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS
+ #		  * FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE
+ #		  * REGENTS OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT,
+ #		  * INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+ #		  * (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+ #		  * SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+ #		  * HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,
+ #		  * STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+ #		  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED
+ #		  * OF THE POSSIBILITY OF SUCH DAMAGE.
+ #		  */
+ #		 
+ #		 /*
+ #		  * Copyright (c) 1999 Computer Systems and Communication Lab,
+ #		  *                    Institute of Information Science, Academia Sinica.
+ #		  * All rights reserved.
+ #		  *
+ #		  * Redistribution and use in source and binary forms, with or without
+ #		  * modification, are permitted provided that the following conditions
+ #		  * are met:
+ #		  *
+ #		  * . Redistributions of source code must retain the above copyright
+ #		  *   notice, this list of conditions and the following disclaimer.
+ #		  * . Redistributions in binary form must reproduce the above copyright
+ #		  *   notice, this list of conditions and the following disclaimer in
+ #		  *   the documentation and/or other materials provided with the
+ #		  *   distribution.
+ #		  * . Neither the name of the Computer Systems and Communication Lab
+ #		  *   nor the names of its contributors may be used to endorse or
+ #		  *   promote products derived from this software without specific
+ #		  *   prior written permission.
+ #		  *
+ #		  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+ #		  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+ #		  * LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS
+ #		  * FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE
+ #		  * REGENTS OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT,
+ #		  * INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+ #		  * (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+ #		  * SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+ #		  * HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,
+ #		  * STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+ #		  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED
+ #		  * OF THE POSSIBILITY OF SUCH DAMAGE.
+ #		  */
+ #		 
+ #		 Copyright 1996 Chih-Hao Tsai @ Beckman Institute, University of Illinois
+ #		 c-tsai4@uiuc.edu  http://casper.beckman.uiuc.edu/~c-tsai4
+ #		 
+ #		 ---------------COPYING.libtabe-----END------------------------------------
+ #		 
+ #		 
+ #		 ---------------COPYING.ipadic-----BEGIN------------------------------------
+ #		 
+ #		 Copyright 2000, 2001, 2002, 2003 Nara Institute of Science
+ #		 and Technology.  All Rights Reserved.
+ #		 
+ #		 Use, reproduction, and distribution of this software is permitted.
+ #		 Any copy of this software, whether in its original form or modified,
+ #		 must include both the above copyright notice and the following
+ #		 paragraphs.
+ #		 
+ #		 Nara Institute of Science and Technology (NAIST),
+ #		 the copyright holders, disclaims all warranties with regard to this
+ #		 software, including all implied warranties of merchantability and
+ #		 fitness, in no event shall NAIST be liable for
+ #		 any special, indirect or consequential damages or any damages
+ #		 whatsoever resulting from loss of use, data or profits, whether in an
+ #		 action of contract, negligence or other tortuous action, arising out
+ #		 of or in connection with the use or performance of this software.
+ #		 
+ #		 A large portion of the dictionary entries
+ #		 originate from ICOT Free Software.  The following conditions for ICOT
+ #		 Free Software applies to the current dictionary as well.
+ #		 
+ #		 Each User may also freely distribute the Program, whether in its
+ #		 original form or modified, to any third party or parties, PROVIDED
+ #		 that the provisions of Section 3 ("NO WARRANTY") will ALWAYS appear
+ #		 on, or be attached to, the Program, which is distributed substantially
+ #		 in the same form as set out herein and that such intended
+ #		 distribution, if actually made, will neither violate or otherwise
+ #		 contravene any of the laws and regulations of the countries having
+ #		 jurisdiction over the User or the intended distribution itself.
+ #		 
+ #		 NO WARRANTY
+ #		 
+ #		 The program was produced on an experimental basis in the course of the
+ #		 research and development conducted during the project and is provided
+ #		 to users as so produced on an experimental basis.  Accordingly, the
+ #		 program is provided without any warranty whatsoever, whether express,
+ #		 implied, statutory or otherwise.  The term "warranty" used herein
+ #		 includes, but is not limited to, any warranty of the quality,
+ #		 performance, merchantability and fitness for a particular purpose of
+ #		 the program and the nonexistence of any infringement or violation of
+ #		 any right of any third party.
+ #		 
+ #		 Each user of the program will agree and understand, and be deemed to
+ #		 have agreed and understood, that there is no warranty whatsoever for
+ #		 the program and, accordingly, the entire risk arising from or
+ #		 otherwise connected with the program is assumed by the user.
+ #		 
+ #		 Therefore, neither ICOT, the copyright holder, or any other
+ #		 organization that participated in or was otherwise related to the
+ #		 development of the program and their respective officials, directors,
+ #		 officers and other employees shall be held liable for any and all
+ #		 damages, including, without limitation, general, special, incidental
+ #		 and consequential damages, arising out of or otherwise in connection
+ #		 with the use or inability to use the program or any product, material
+ #		 or result produced or otherwise obtained by using the program,
+ #		 regardless of whether they have been advised of, or otherwise had
+ #		 knowledge of, the possibility of such damages at any time during the
+ #		 project or thereafter.  Each user will be deemed to have agreed to the
+ #		 foregoing by his or her commencement of use of the program.  The term
+ #		 "use" as used herein includes, but is not limited to, the use,
+ #		 modification, copying and distribution of the program and the
+ #		 production of secondary products from the program.
+ #		 
+ #		 In the case where the program, whether in its original form or
+ #		 modified, was distributed or delivered to or received by a user from
+ #		 any person, organization or entity other than ICOT, unless it makes or
+ #		 grants independently of ICOT any specific warranty to the user in
+ #		 writing, such person, organization or entity, will also be exempted
+ #		 from and not be held liable to the user for any such damages as noted
+ #		 above as far as the program is concerned.
+ #		 
+ #		 ---------------COPYING.ipadic-----END------------------------------------
+
+3. Time Zone Database
+ICU uses the public domain data and code derived from Time Zone Database for its time zone support. The ownership of the TZ database is explained in BCP 175: Procedure for Maintaining the Time Zone Database section 7.
+7.  Database Ownership
+
+   The TZ database itself is not an IETF Contribution or an IETF
+   document.  Rather it is a pre-existing and regularly updated work
+   that is in the public domain, and is intended to remain in the public
+   domain.  Therefore, BCPs 78 [RFC5378] and 79 [RFC3979] do not apply
+   to the TZ Database or contributions that individuals make to it.
+   Should any claims be made and substantiated against the TZ Database,
+   the organization that is providing the IANA Considerations defined in
+   this RFC, under the memorandum of understanding with the IETF,
+   currently ICANN, may act in accordance with all competent court
+   orders.  No ownership claims will be made by ICANN or the IETF Trust
+   on the database or the code.  Any person making a contribution to the
+   database or code waives all rights to future claims in that
+   contribution or in the TZ Database.
+=============================================================
+END OF NOTICES FOR ICU
+=============================================================
+ZLIB. The Program includes the zlib.h - interface of the 'zlib' general purposes
+compression library version 1.1.3,1.2.2 and 1.2.5. IBM obtained the software under the terms and
+conditions of the following license agreement:
+
+http://www.gzip.org/zlib/zlib_license.html
+
+License
+
+Copyright (C) 1995-2005 Jean-loup Gailly and Mark Adler
+
+This software is provided 'as-is', without any express or implied warranty. In
+no event will the authors be held liable for any damages arising from the use of
+this software.
+
+Permission is granted to anyone to use this software for any purpose, including
+commercial applications, and to alter it and redistribute it freely, subject to
+the following restrictions:
+
+1. The origin of this software must not be misrepresented; you must not claim
+that you wrote the original software. If you use this software in a product, an
+acknowledgment in the product documentation would be appreciated but is not
+required.
+2. Altered source versions must be plainly marked as such, and must not be
+misrepresented as being the original software.
+3. This notice may not be removed or altered from any source distribution.
+
+Jean-loup Gailly jloup@gzip.org
+Mark Adler madler@alumni.caltech.edu
+====================================
+END OF ZLIB NOTICES AND INFORMATION
+================================
+
+ The OpenSSL toolkit stays under a dual license, i.e. both the conditions of
+ the OpenSSL License and the original SSLeay license apply to the toolkit.
+ See below for the actual license texts. Actually both licenses are BSD-style
+ Open Source licenses. In case of any license issues related to OpenSSL
+ please contact openssl-core@openssl.org.
+
+ OpenSSL License
+ ---------------
+
+/* ====================================================================
+ * Copyright (c) 1998-2006 The OpenSSL Project. All rights reserved.
+ *
+ * Redistribution and use in source and binary forms, with or without
+ * modification, are permitted provided that the following conditions
+ * are met:
+ *
+ * 1. Redistributions of source code must retain the above copyright
+ * notice, this list of conditions and the following disclaimer.
+ *
+ * 2. Redistributions in binary form must reproduce the above copyright
+ * notice, this list of conditions and the following disclaimer in
+ * the documentation and/or other materials provided with the
+ * distribution.
+ *
+ * 3. All advertising materials mentioning features or use of this
+ * software must display the following acknowledgment:
+ * "This product includes software developed by the OpenSSL Project
+ * for use in the OpenSSL Toolkit. (http://www.openssl.org/)"
+ *
+ * 4. The names "OpenSSL Toolkit" and "OpenSSL Project" must not be used to
+ * endorse or promote products derived from this software without
+ * prior written permission. For written permission, please contact
+ * openssl-core@openssl.org.
+ *
+ * 5. Products derived from this software may not be called "OpenSSL"
+ * nor may "OpenSSL" appear in their names without prior written
+ * permission of the OpenSSL Project.
+ *
+ * 6. Redistributions of any form whatsoever must retain the following
+ * acknowledgment:
+ * "This product includes software developed by the OpenSSL Project
+ * for use in the OpenSSL Toolkit (http://www.openssl.org/)"
+ *
+ * THIS SOFTWARE IS PROVIDED BY THE OpenSSL PROJECT ``AS IS'' AND ANY
+ * EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+ * IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+ * PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE OpenSSL PROJECT OR
+ * ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+ * SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT
+ * NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+ * LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+ * HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,
+ * STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+ * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED
+ * OF THE POSSIBILITY OF SUCH DAMAGE.
+ * ====================================================================
+ *
+ * This product includes cryptographic software written by Eric Young
+ * (eay@cryptsoft.com). This product includes software written by Tim
+ * Hudson (tjh@cryptsoft.com).
+ *
+ */
+
+ Original SSLeay License
+ -----------------------
+
+/* Copyright (C) 1995-1998 Eric Young (eay@cryptsoft.com)
+ * All rights reserved.
+ *
+ * This package is an SSL implementation written
+ * by Eric Young (eay@cryptsoft.com).
+ * The implementation was written so as to conform with Netscapes SSL.
+ *
+ * This library is free for commercial and non-commercial use as long as
+ * the following conditions are aheared to. The following conditions
+ * apply to all code found in this distribution, be it the RC4, RSA,
+ * lhash, DES, etc., code; not just the SSL code. The SSL documentation
+ * included with this distribution is covered by the same copyright terms
+ * except that the holder is Tim Hudson (tjh@cryptsoft.com).
+ *
+ * Copyright remains Eric Young's, and as such any Copyright notices in
+ * the code are not to be removed.
+ * If this package is used in a product, Eric Young should be given attribution
+ * as the author of the parts of the library used.
+ * This can be in the form of a textual message at program startup or
+ * in documentation (online or textual) provided with the package.
+ *
+ * Redistribution and use in source and binary forms, with or without
+ * modification, are permitted provided that the following conditions
+ * are met:
+ * 1. Redistributions of source code must retain the copyright
+ * notice, this list of conditions and the following disclaimer.
+ * 2. Redistributions in binary form must reproduce the above copyright
+ * notice, this list of conditions and the following disclaimer in the
+ * documentation and/or other materials provided with the distribution.
+ * 3. All advertising materials mentioning features or use of this software
+ * must display the following acknowledgement:
+ * "This product includes cryptographic software written by
+ * Eric Young (eay@cryptsoft.com)"
+ * The word 'cryptographic' can be left out if the rouines from the library
+ * being used are not cryptographic related :-).
+ * 4. If you include any Windows specific code (or a derivative thereof) from
+ * the apps directory (application code) you must include an acknowledgement:
+ * "This product includes software written by Tim Hudson (tjh@cryptsoft.com)"
+ *
+ * THIS SOFTWARE IS PROVIDED BY ERIC YOUNG ``AS IS'' AND
+ * ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+ * IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+ * ARE DISCLAIMED. IN NO EVENT SHALL THE AUTHOR OR CONTRIBUTORS BE LIABLE
+ * FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+ * DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS
+ * OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+ * HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
+ * LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
+ * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
+ * SUCH DAMAGE.
+ *
+ * The licence and distribution terms for any publically available version or
+ * derivative of this code cannot be changed. i.e. this code cannot simply be
+ * copied and put under another distribution licence
+ * [including the GNU Public Licence.]
+ */
+=======================================
+END OF OPEN SSL NOTICES AND INFORMATION
+=======================================
+SQL/J 0.9.1.1
+
+Copyright Information
+This document Copyright © 1997-1998 by Oracle Corporation. All rights reserved.
+Legal disclaimer for the associated software, 
+SQLJ Reference Implementation Release 0.9.1.1:
+Oracle expressly places this Software in the public domain. However, Oracle grants no other rights, whether express or implied, to users of this Software, and Oracle provides this Software on an "AS-IS" basis, exclusive of any warranty including, without limitation, all warranties of merchantability or fitness for a particular purpose, noninfringement or any other warranty, whether expressed or implied. You use this Software at your own risk and agree that Oracle shall not be liable for any damages, including but not limited to, direct, indirect, incidental, special, cover, reliance, or consequential damages, arising from your use of the Software.  
+=======================================
+END OF SQL/J NOTICES
+=======================================
+
+ 
